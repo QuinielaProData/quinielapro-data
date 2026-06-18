@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "project": "MDI QuinielaPro Data Repository",
+  "published_at": "2026-06-18T00:00:00Z",
+  "data_version": "2026.06.18",
+  "historical": {
+    "season": null,
+    "latest_consolidated_round": null,
+    "master_version": "initial",
+    "master_sha256": "",
+    "master_rows": 0
+  },
+  "active": {
+    "season": null,
+    "round": null,
+    "status": "NOT_AVAILABLE",
+    "results_available": false
+  },
+  "catalogs": {
+    "team_identity_catalog_version": "initial",
+    "competition_catalog_version": "initial"
+  },
+  "health": {
+    "status": "INITIALIZED",
+    "warnings": []
+  },
+  "files": {
+    "historical_master": "historical/official_quiniela_master.csv",
+    "historical_stats": "historical/historical_stats.json",
+    "team_catalog": "catalogs/team_identity_catalog.csv",
+    "competition_catalog": "catalogs/competition_catalog.json",
+    "active_matchday": "active/official_matchday.json",
+    "active_results": "active/official_results.json",
+    "context_matchday": "context/context_matchday.json",
+    "player_info_matchday": "player_info/player_info_matchday.json",
+    "team_rosters": "player_info/team_rosters.json",
+    "changelog": "releases/changelog.json",
+    "audit_log": "releases/audit_log.json"
+  }
+}
