@@ -1,69 +1,52 @@
 {
   "schemaVersion": 1,
-
   "project": "MDI QuinielaPro Data Repository",
-
-  "publishedAt": "2026-06-18T00:00:00Z",
-
-  "dataVersion": "2026.06.18",
-
+  "publishedAt": "2026-06-18T15:41:51.775538Z",
+  "dataVersion": "2025-2026-67",
   "health": {
-    "status": "INITIALIZED",
+    "status": "HEALTHY",
     "warnings": []
   },
-
   "historical": {
-    "masterVersion": "2026.06.18",
-    "masterSha256": "",
-    "masterSizeBytes": 0,
-    "masterRows": 0,
-
-    "latestConsolidatedSeason": null,
-    "latestConsolidatedRound": null
+    "masterVersion": "2025-2026-67",
+    "masterSha256": "525f8b64a4323a0deb10bbf2313d23a53a5511e143b2dcd284504d3df266b772",
+    "masterSizeBytes": 5101552,
+    "masterRows": 16440,
+    "latestConsolidatedSeason": "2025-2026",
+    "latestConsolidatedRound": 67
   },
-
   "catalogs": {
-    "teamIdentityCatalogVersion": "initial",
-    "competitionCatalogVersion": "initial"
+    "teamIdentityCatalogVersion": "local",
+    "competitionCatalogVersion": "local"
   },
-
   "active": {
     "status": "NO_ACTIVE_MATCHDAY",
-
     "season": null,
     "round": null,
-
     "resultsAvailable": false,
-
     "contextAvailable": false,
-
     "playerInfoAvailable": false
   },
-
   "compatibility": {
     "minAndroidDataSchema": 1,
     "minViewerDataSchema": 1
   },
-
   "files": {
     "historicalMaster": "historical/official_quiniela_master.csv",
-
     "historicalStats": "historical/historical_stats.json",
-
     "teamIdentityCatalog": "catalogs/team_identity_catalog.csv",
-
     "competitionCatalog": "catalogs/competition_catalog.json",
-
     "activeMatchday": "active/active_matchday.json",
-
     "officialResults": "active/official_results.json",
-
     "contextMatchday": "context/context_matchday.json",
-
     "playerInfoMatchday": "player_info/player_info_matchday.json",
-
     "changelog": "releases/changelog.json",
-
     "auditLog": "releases/audit_log.json"
+  },
+  "_localViewer": {
+    "version": "0.8.8",
+    "generatedBy": "QuinielaPro Viewer Manifest Generator V1",
+    "latestRoundId": "official-2025-2026-67",
+    "rounds": 1096
   }
 }
