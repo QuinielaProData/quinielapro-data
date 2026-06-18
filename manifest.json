@@ -1,40 +1,25 @@
 {
-  "schema_version": "1.0",
+  "schemaVersion": 1,
   "project": "MDI QuinielaPro Data Repository",
-  "published_at": "2026-06-18T00:00:00Z",
-  "data_version": "2026.06.18",
+  "dataVersion": "2026.06.18",
+  "health": {
+    "status": "OK",
+    "warnings": []
+  },
   "historical": {
-    "season": null,
-    "latest_consolidated_round": null,
-    "master_version": "initial",
-    "master_sha256": "",
-    "master_rows": 0
+    "masterVersion": "2026.06.18",
+    "masterSha256": "",
+    "masterRows": 0,
+    "latestConsolidatedSeason": null,
+    "latestConsolidatedRound": null
   },
   "active": {
     "season": null,
     "round": null,
-    "status": "NOT_AVAILABLE",
-    "results_available": false
+    "status": "NO_ACTIVE_MATCHDAY"
   },
-  "catalogs": {
-    "team_identity_catalog_version": "initial",
-    "competition_catalog_version": "initial"
-  },
-  "health": {
-    "status": "INITIALIZED",
-    "warnings": []
-  },
-  "files": {
-    "historical_master": "historical/official_quiniela_master.csv",
-    "historical_stats": "historical/historical_stats.json",
-    "team_catalog": "catalogs/team_identity_catalog.csv",
-    "competition_catalog": "catalogs/competition_catalog.json",
-    "active_matchday": "active/official_matchday.json",
-    "active_results": "active/official_results.json",
-    "context_matchday": "context/context_matchday.json",
-    "player_info_matchday": "player_info/player_info_matchday.json",
-    "team_rosters": "player_info/team_rosters.json",
-    "changelog": "releases/changelog.json",
-    "audit_log": "releases/audit_log.json"
+  "compatibility": {
+    "minAndroidDataSchema": 1,
+    "minViewerDataSchema": 1
   }
 }
