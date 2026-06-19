@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "project": "MDI QuinielaPro Data Repository",
-  "publishedAt": "2026-06-18T15:41:51.775538Z",
+  "publishedAt": "2026-06-19T05:51:40.731332Z",
   "dataVersion": "2025-2026-67",
   "health": {
     "status": "HEALTHY",
@@ -20,9 +20,9 @@
     "competitionCatalogVersion": "local"
   },
   "active": {
-    "status": "NO_ACTIVE_MATCHDAY",
-    "season": null,
-    "round": null,
+    "status": "ACTIVE",
+    "season": "2025-2026",
+    "round": 68,
     "resultsAvailable": false,
     "contextAvailable": false,
     "playerInfoAvailable": false
@@ -44,7 +44,7 @@
     "auditLog": "releases/audit_log.json"
   },
   "_localViewer": {
-    "version": "0.8.8",
+    "version": "0.9.6",
     "generatedBy": "QuinielaPro Viewer Manifest Generator V1",
     "latestRoundId": "official-2025-2026-67",
     "rounds": 1096
