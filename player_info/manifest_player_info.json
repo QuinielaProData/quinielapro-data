@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-06-19T07:34:15.079598Z",
+  "matchdayId": "official-2025-2026-68",
+  "season": "2025-2026",
+  "roundNumber": 68,
+  "officialRoundId": "official-2025-2026-68",
+  "source": "MDI_PlayerInfoSyncTool",
+  "appliesToPrediction": false,
+  "impactAppliedToBet": "NONE",
+  "summary": {
+    "totalTeams": 30,
+    "totalRosters": 12,
+    "teamsWithRoster": 12,
+    "teamsWithoutRoster": 18,
+    "teamsWithoutRosterNames": [
+      "Estados Unidos",
+      "Escocia",
+      "Haití",
+      "Turquia",
+      "Países Bajos",
+      "Suecia",
+      "Alemania",
+      "Costa Marfil",
+      "Curazao",
+      "Bélgica",
+      "Cabo Verde",
+      "Nueva Zelanda",
+      "Austria",
+      "Francia",
+      "Irak",
+      "Finalista 2 Playoff",
+      "Finalista 1 Playoff",
+      "España"
+    ],
+    "teamsWithPhotos": 12,
+    "teamsWithLineup": 12,
+    "totalPlayers": 316
+  },
+  "totalTeams": 30,
+  "totalRosters": 12,
+  "totalPlayers": 316,
+  "teamsWithRoster": 12,
+  "teamsWithoutRoster": 18,
+  "teamsWithPhotos": 12,
+  "teamsWithLineup": 12,
+  "files": [
+    {
+      "path": "player_info/player_info_matchday.json",
+      "type": "matchday",
+      "sizeBytes": 91840,
+      "sha256": "b246caebbe8784724cae20eb096a7f665fc6079eb3083419e29e77e0b3c9bc50"
+    },
+    {
+      "path": "player_info/team_rosters/transfermarkt_team_3433.json",
+      "type": "team_roster",
+      "sizeBytes": 13593,
+      "sha256": "dc2e127558bc6d2877eb67341c0ac235754cc8f3755019aef0340ae2a2243037",
+      "rosterId": "transfermarkt_team_3433"
+    },
+    {
+      "path": "player_info/team_rosters/transfermarkt_team_3575.json",
+      "type": "team_roster",
+      "sizeBytes": 14723,
+      "sha256": "c02937f199c7926c24d0f03dac44780310f52a2f4fa24216a7023ebb2750da31",
+      "rosterId": "transfermarkt_team_3575"
+    },
+    {
+      "path": "player_info/team_rosters/transfermarkt_team_3439.json",
+      "type": "team_roster",
+      "sizeBytes": 13605,
+      "sha256": "ac0fc18218e9c305169640e882bdc45302eb8847a95bb33fe1b1c06f5e62efc5",
+      "rosterId": "transfermarkt_team_3439"
+    },
+    {
+      "path": "player_info/team_rosters/transfermarkt_team_3581.json",
+      "type": "team_roster",
+      "sizeBytes": 12671,
+      "sha256": "a0ef1fc8a37856cedeb7e73887b4508ba85059da6b9c676184ff27cdf46aaafe",
+      "rosterId": "transfermarkt_team_3581"
+    },
+    {
+      "path": "player_info/team_rosters/transfermarkt_team_5750.json",
+      "type": "team_roster",
+      "sizeBytes": 13382,
+      "sha256": "96d14af0401f8f19cb7ce48053e39e09def7c6e8514341d31c90345e02cc234c",
+      "rosterId": "transfermarkt_team_5750"
+    },
+    {
+      "path": "player_info/team_rosters/transfermarkt_team_3670.json",
+      "type": "team_roster",
+      "sizeBytes": 13323,
+      "sha256": "65e2ea959c5e4c9b6a205a93a54c7a1bce124fe9b10aefef47cd2e4aaeafaee3",
+      "rosterId": "transfermarkt_team_3670"
+    },
+    {
+      "path": "player_info/team_rosters/transfermarkt_team_3435.json",
+      "type": "team_roster",
+      "sizeBytes": 13144,
+      "sha256": "d58534c9a98978b4c2f89d66e643879f4fda476bb2456e746277c5bc393162b4",
+      "rosterId": "transfermarkt_team_3435"
+    },
+    {
+      "path": "player_info/team_rosters/transfermarkt_team_3582.json",
+      "type": "team_roster",
+      "sizeBytes": 12548,
+      "sha256": "d98901e0cbd8c98a5de732b2d022c9b9c9cadedd10b4717d09ecd45869a51c27",
+      "rosterId": "transfermarkt_team_3582"
+    },
+    {
+      "path": "player_info/team_rosters/transfermarkt_team_3449.json",
+      "type": "team_roster",
+      "sizeBytes": 13793,
+      "sha256": "09988daa0d18ad161fc20a5e39ae024b829094b245438518e23010d5021eb6ac",
+      "rosterId": "transfermarkt_team_3449"
+    },
+    {
+      "path": "player_info/team_rosters/transfermarkt_team_3672.json",
+      "type": "team_roster",
+      "sizeBytes": 13620,
+      "sha256": "5675dbf0377b6fa7aafda41d766db9528fbf3d1edb8856f4348c9d0146085909",
+      "rosterId": "transfermarkt_team_3672"
+    },
+    {
+      "path": "player_info/team_rosters/transfermarkt_team_3437.json",
+      "type": "team_roster",
+      "sizeBytes": 13913,
+      "sha256": "2ff6717f2734e8419dfe52eb9b84d3ecdaf13a12932b829c598fee563167f023",
+      "rosterId": "transfermarkt_team_3437"
+    },
+    {
+      "path": "player_info/team_rosters/transfermarkt_team_3807.json",
+      "type": "team_roster",
+      "sizeBytes": 13837,
+      "sha256": "551fb11e4f11689b5bffb2da129661e83edb3ced1415aba60600c56ace006175",
+      "rosterId": "transfermarkt_team_3807"
+    }
+  ],
+  "warnings": [
+    "No unambiguous team match",
+    "Cannot build unresolved team roster: Estados Unidos",
+    "Generated from recent national team appearances. Not an official squad list.",
+    "No recent national team player appearances found for Escocia",
+    "No historical starting lineup found for Escocia",
+    "Cannot build unresolved team roster: Haití",
+    "No recent national team player appearances found for Turquia",
+    "No historical starting lineup found for Turquia",
+    "No recent national team player appearances found for Países Bajos",
+    "No historical starting lineup found for Países Bajos",
+    "No recent national team player appearances found for Suecia",
+    "No historical starting lineup found for Suecia",
+    "No recent national team player appearances found for Alemania",
+    "No historical starting lineup found for Alemania",
+    "Cannot build unresolved team roster: Costa Marfil",
+    "Cannot build unresolved team roster: Curazao",
+    "No recent national team player appearances found for Bélgica",
+    "No historical starting lineup found for Bélgica",
+    "Cannot build unresolved team roster: Cabo Verde",
+    "No recent national team player appearances found for Nueva Zelanda",
+    "No historical starting lineup found for Nueva Zelanda",
+    "No recent national team player appearances found for Austria",
+    "No historical starting lineup found for Austria",
+    "No recent national team player appearances found for Francia",
+    "No historical starting lineup found for Francia",
+    "Cannot build unresolved team roster: Irak",
+    "Cannot build unresolved team roster: Finalista 2 Playoff",
+    "Cannot build unresolved team roster: Finalista 1 Playoff",
+    "No recent national team player appearances found for España",
+    "No historical starting lineup found for España"
+  ]
+}
