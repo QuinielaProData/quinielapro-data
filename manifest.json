@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "project": "MDI QuinielaPro Data Repository",
-  "publishedAt": "2026-06-20T13:40:42.328880Z",
+  "publishedAt": "2026-06-20T18:29:44.486888Z",
   "dataVersion": "2025-2026-67",
   "health": {
     "status": "HEALTHY",
@@ -24,9 +24,20 @@
     "season": "2025-2026",
     "round": 68,
     "resultsAvailable": false,
-    "contextAvailable": false,
+    "contextAvailable": true,
     "playerInfoAvailable": true,
     "remoteAppAccessAvailable": true
+  },
+  "context": {
+    "status": "AVAILABLE",
+    "manifest": "context/manifest_context.json",
+    "activeContext": "context/active_context.json",
+    "season": "2025-2026",
+    "round": 68,
+    "officialRoundId": "official-2025-2026-68",
+    "contextVersion": 2,
+    "hash": "a54dfb2ecd131d07c763275c5b488106b5dcccf1edeca9f7739b731b3500de91",
+    "updatedAt": "2026-06-19T19:11:41Z"
   },
   "compatibility": {
     "minAndroidDataSchema": 1,
@@ -39,7 +50,9 @@
     "competitionCatalog": "catalogs/competition_catalog.json",
     "activeMatchday": "active/active_matchday.json",
     "officialResults": "active/official_results.json",
-    "contextMatchday": "context/context_matchday.json",
+    "contextActive": "context/active_context.json",
+    "contextManifest": "context/manifest_context.json",
+    "contextMatchday": "context/active_context.json",
     "playerInfoMatchday": "player_info/player_info_matchday.json",
     "playerInfoManifest": "player_info/manifest_player_info.json",
     "playerInfoTeamRosters": "player_info/team_rosters/",
