@@ -1,0 +1,900 @@
+{
+  "schema_version": "1.0",
+  "file_type": "quinielapro_context",
+  "season": "2025-2026",
+  "round_number": 68,
+  "source_matchday_id": "J68",
+  "context_version": 2,
+  "matchday_status": "UPDATED",
+  "status": "UPDATED",
+  "created_at": "2026-06-19T19:11:41Z",
+  "updated_at": "2026-06-19T19:11:41Z",
+  "last_reviewed_at": "2026-06-19T19:11:41Z",
+  "context_quality": "MEDIUM",
+  "global_confidence": 0.42,
+  "context_profile": "MANUAL_RESEARCH",
+  "export_type": "CONTEXT_SNAPSHOT",
+  "export_note": "Exportación completa J68 v2 para visualización/importación en Context Engine V1. No cierra la jornada.",
+  "matches": [
+    {
+      "match_number": 1,
+      "home_team": "Estados Unidos",
+      "away_team": "Australia",
+      "competition_type": "NATIONAL_TEAM",
+      "match_type": "WORLD_CUP",
+      "match_confidence": 0.78,
+      "venue": {
+        "is_neutral": false,
+        "country": "",
+        "city": "",
+        "stadium": "",
+        "altitude_relevant": false,
+        "altitude_meters": null,
+        "confidence": 0.1,
+        "note": "Sede pendiente de verificación contextual."
+      },
+      "home_context": {
+        "absence_score": 4,
+        "suspension_score": 0,
+        "rotation_risk": 0,
+        "motivation_score": 0,
+        "fatigue_score": 0,
+        "morale_score": 0,
+        "confidence": 0.78
+      },
+      "away_context": {
+        "absence_score": 0,
+        "suspension_score": 0,
+        "rotation_risk": 0,
+        "motivation_score": 0,
+        "fatigue_score": 0,
+        "morale_score": 0,
+        "confidence": 0.2
+      },
+      "context_impact": {
+        "direction": "HOME_MINUS",
+        "strength": "MEDIUM",
+        "max_adjustment_percent": 4.0,
+        "confidence": 0.65,
+        "apply_to_prediction": false
+      },
+      "events": [
+        {
+          "event_id": "evt-J68-001",
+          "type": "KEY_PLAYER_ABSENCE",
+          "event_type": "KEY_PLAYER_ABSENCE",
+          "team": "Estados Unidos",
+          "subject": "Christian Pulisic",
+          "status": "CONFIRMED",
+          "impact_level": "HIGH",
+          "confidence": 0.9,
+          "source": "Reuters",
+          "source_name": "Reuters",
+          "source_type": "NEWS_AGENCY",
+          "source_url": "https://www.reuters.com/sports/soccer/pulisic-out-injured-us-against-australia-2026-06-19/",
+          "timestamp": "2026-06-19T19:11:41Z",
+          "description": "Christian Pulisic queda fuera ante Australia por lesión de gemelo."
+        }
+      ],
+      "sources": [
+        {
+          "source_id": "src-J68-001",
+          "source_name": "Reuters",
+          "source_type": "NEWS_AGENCY",
+          "source_url": "https://www.reuters.com/sports/soccer/pulisic-out-injured-us-against-australia-2026-06-19/",
+          "confidence": 0.9,
+          "note": "Baja confirmada de Christian Pulisic ante Australia."
+        }
+      ],
+      "human_summary": "Estados Unidos pierde a Christian Pulisic para el partido ante Australia. Es el evento más relevante de este encuentro.",
+      "import_warnings": [
+        "Contexto preliminar: información todavía incompleta.",
+        "No interpretar absence_score=0 como ausencia confirmada de bajas si confidence es baja.",
+        "Context Engine V1 solo visualiza/audita contexto; no modifica probabilidades.",
+        "Pulisic figura como baja confirmada; Context Engine V1 no aplica ajuste automático."
+      ]
+    },
+    {
+      "match_number": 2,
+      "home_team": "Escocia",
+      "away_team": "Marruecos",
+      "competition_type": "NATIONAL_TEAM",
+      "match_type": "WORLD_CUP",
+      "match_confidence": 0.42,
+      "venue": {
+        "is_neutral": false,
+        "country": "",
+        "city": "",
+        "stadium": "",
+        "altitude_relevant": false,
+        "altitude_meters": null,
+        "confidence": 0.1,
+        "note": "Sede pendiente de verificación contextual."
+      },
+      "home_context": {
+        "absence_score": 0,
+        "suspension_score": 0,
+        "rotation_risk": 0,
+        "motivation_score": 0,
+        "fatigue_score": 0,
+        "morale_score": 0,
+        "confidence": 0.2
+      },
+      "away_context": {
+        "absence_score": 0,
+        "suspension_score": 0,
+        "rotation_risk": 0,
+        "motivation_score": 0,
+        "fatigue_score": 0,
+        "morale_score": 0,
+        "confidence": 0.2
+      },
+      "context_impact": {
+        "direction": "NO_ADJUSTMENT",
+        "strength": "NONE",
+        "max_adjustment_percent": 0.0,
+        "confidence": 0.2,
+        "apply_to_prediction": false
+      },
+      "events": [],
+      "sources": [
+        {
+          "source_id": "src-J68-002",
+          "source_name": "Reuters",
+          "source_type": "NEWS_AGENCY",
+          "source_url": "https://www.reuters.com/sports/soccer/scotlands-spirits-likely-be-dampened-by-morocco-boston-2026-06-17/",
+          "confidence": 0.65,
+          "note": "Previa contextual; no se convierte en evento fuerte."
+        }
+      ],
+      "human_summary": "Revisión sin evento de alto valor. La mejora anímica de Escocia y la solidez de Marruecos son lectura deportiva, no evento contextual objetivo suficiente.",
+      "import_warnings": [
+        "Contexto preliminar: información todavía incompleta.",
+        "No interpretar absence_score=0 como ausencia confirmada de bajas si confidence es baja.",
+        "Context Engine V1 solo visualiza/audita contexto; no modifica probabilidades."
+      ]
+    },
+    {
+      "match_number": 3,
+      "home_team": "Brasil",
+      "away_team": "Haití",
+      "competition_type": "NATIONAL_TEAM",
+      "match_type": "WORLD_CUP",
+      "match_confidence": 0.82,
+      "venue": {
+        "is_neutral": false,
+        "country": "",
+        "city": "",
+        "stadium": "",
+        "altitude_relevant": false,
+        "altitude_meters": null,
+        "confidence": 0.1,
+        "note": "Sede pendiente de verificación contextual."
+      },
+      "home_context": {
+        "absence_score": 4,
+        "suspension_score": 0,
+        "rotation_risk": 0,
+        "motivation_score": 0,
+        "fatigue_score": 0,
+        "morale_score": 0,
+        "confidence": 0.85
+      },
+      "away_context": {
+        "absence_score": 0,
+        "suspension_score": 0,
+        "rotation_risk": 0,
+        "motivation_score": 0,
+        "fatigue_score": 0,
+        "morale_score": 0,
+        "confidence": 0.2
+      },
+      "context_impact": {
+        "direction": "HOME_MINUS",
+        "strength": "MEDIUM",
+        "max_adjustment_percent": 4.0,
+        "confidence": 0.65,
+        "apply_to_prediction": false
+      },
+      "events": [
+        {
+          "event_id": "evt-J68-002",
+          "type": "KEY_PLAYER_ABSENCE",
+          "event_type": "KEY_PLAYER_ABSENCE",
+          "team": "Brasil",
+          "subject": "Neymar",
+          "status": "CONFIRMED",
+          "impact_level": "HIGH",
+          "confidence": 0.92,
+          "source": "Reuters",
+          "source_name": "Reuters",
+          "source_type": "NEWS_AGENCY",
+          "source_url": "https://www.reuters.com/sports/soccer/injured-neymar-not-travelling-with-brazil-squad-haiti-match-2026-06-18/",
+          "timestamp": "2026-06-19T19:11:41Z",
+          "description": "Neymar sigue fuera y no viaja con Brasil para el partido ante Haití."
+        }
+      ],
+      "sources": [
+        {
+          "source_id": "src-J68-003",
+          "source_name": "Reuters",
+          "source_type": "NEWS_AGENCY",
+          "source_url": "https://www.reuters.com/sports/soccer/injured-neymar-not-travelling-with-brazil-squad-haiti-match-2026-06-18/",
+          "confidence": 0.92,
+          "note": "Neymar no viaja con Brasil para el partido ante Haití."
+        }
+      ],
+      "human_summary": "Brasil vuelve a competir sin Neymar, que no viaja para el partido ante Haití.",
+      "import_warnings": [
+        "Contexto preliminar: información todavía incompleta.",
+        "No interpretar absence_score=0 como ausencia confirmada de bajas si confidence es baja.",
+        "Context Engine V1 solo visualiza/audita contexto; no modifica probabilidades."
+      ]
+    },
+    {
+      "match_number": 4,
+      "home_team": "Turquía",
+      "away_team": "Paraguay",
+      "competition_type": "NATIONAL_TEAM",
+      "match_type": "WORLD_CUP",
+      "match_confidence": 0.7,
+      "venue": {
+        "is_neutral": false,
+        "country": "",
+        "city": "",
+        "stadium": "",
+        "altitude_relevant": false,
+        "altitude_meters": null,
+        "confidence": 0.1,
+        "note": "Sede pendiente de verificación contextual."
+      },
+      "home_context": {
+        "absence_score": 0,
+        "suspension_score": 0,
+        "rotation_risk": 0,
+        "motivation_score": 2,
+        "fatigue_score": 0,
+        "morale_score": 0,
+        "confidence": 0.7
+      },
+      "away_context": {
+        "absence_score": 0,
+        "suspension_score": 0,
+        "rotation_risk": 0,
+        "motivation_score": 2,
+        "fatigue_score": 0,
+        "morale_score": 0,
+        "confidence": 0.7
+      },
+      "context_impact": {
+        "direction": "NEUTRAL",
+        "strength": "MEDIUM",
+        "max_adjustment_percent": 4.0,
+        "confidence": 0.55,
+        "apply_to_prediction": false
+      },
+      "events": [
+        {
+          "event_id": "evt-J68-003",
+          "type": "MOTIVATION_CONTEXT",
+          "event_type": "MOTIVATION_CONTEXT",
+          "team": "Ambos equipos",
+          "subject": "Partido de máxima urgencia competitiva",
+          "status": "REPORTED",
+          "impact_level": "MEDIUM",
+          "confidence": 0.75,
+          "source": "Reuters",
+          "source_name": "Reuters",
+          "source_type": "NEWS_AGENCY",
+          "source_url": "https://www.reuters.com/sports/soccer/turkey-paraguay-face-off-with-little-room-error-after-humbling-defeats-2026-06-17/",
+          "timestamp": "2026-06-19T19:11:41Z",
+          "description": "Turquía y Paraguay llegan con poco margen de error tras derrotas duras; el partido se describe como crítico para ambos."
+        }
+      ],
+      "sources": [
+        {
+          "source_id": "src-J68-004",
+          "source_name": "Reuters",
+          "source_type": "NEWS_AGENCY",
+          "source_url": "https://www.reuters.com/sports/soccer/turkey-paraguay-face-off-with-little-room-error-after-humbling-defeats-2026-06-17/",
+          "confidence": 0.75,
+          "note": "Contexto competitivo de urgencia para Turquía y Paraguay."
+        }
+      ],
+      "human_summary": "Turquía y Paraguay llegan con presión alta tras malos resultados previos. Es un contexto competitivo relevante, no una baja.",
+      "import_warnings": [
+        "Contexto preliminar: información todavía incompleta.",
+        "No interpretar absence_score=0 como ausencia confirmada de bajas si confidence es baja.",
+        "Context Engine V1 solo visualiza/audita contexto; no modifica probabilidades."
+      ]
+    },
+    {
+      "match_number": 5,
+      "home_team": "Países Bajos",
+      "away_team": "Suecia",
+      "competition_type": "NATIONAL_TEAM",
+      "match_type": "WORLD_CUP",
+      "match_confidence": 0.74,
+      "venue": {
+        "is_neutral": false,
+        "country": "",
+        "city": "",
+        "stadium": "",
+        "altitude_relevant": false,
+        "altitude_meters": null,
+        "confidence": 0.1,
+        "note": "Sede pendiente de verificación contextual."
+      },
+      "home_context": {
+        "absence_score": 2,
+        "suspension_score": 0,
+        "rotation_risk": 0,
+        "motivation_score": 0,
+        "fatigue_score": 0,
+        "morale_score": 0,
+        "confidence": 0.76
+      },
+      "away_context": {
+        "absence_score": 0,
+        "suspension_score": 0,
+        "rotation_risk": 0,
+        "motivation_score": 0,
+        "fatigue_score": 0,
+        "morale_score": 0,
+        "confidence": 0.2
+      },
+      "context_impact": {
+        "direction": "HOME_MINUS",
+        "strength": "LOW",
+        "max_adjustment_percent": 2.0,
+        "confidence": 0.5,
+        "apply_to_prediction": false
+      },
+      "events": [
+        {
+          "event_id": "evt-J68-004",
+          "type": "KEY_PLAYER_ABSENCE",
+          "event_type": "KEY_PLAYER_ABSENCE",
+          "team": "Países Bajos",
+          "subject": "Quinten Timber",
+          "status": "CONFIRMED",
+          "impact_level": "MEDIUM",
+          "confidence": 0.85,
+          "source": "Reuters",
+          "source_name": "Reuters",
+          "source_type": "NEWS_AGENCY",
+          "source_url": "https://www.reuters.com/sports/soccer/netherlands-quinten-timber-ruled-out-sweden-clash-with-concussion-2026-06-18/",
+          "timestamp": "2026-06-19T19:11:41Z",
+          "description": "Quinten Timber queda descartado para el partido ante Suecia por conmoción sufrida en entrenamiento."
+        }
+      ],
+      "sources": [
+        {
+          "source_id": "src-J68-005",
+          "source_name": "Reuters",
+          "source_type": "NEWS_AGENCY",
+          "source_url": "https://www.reuters.com/sports/soccer/netherlands-quinten-timber-ruled-out-sweden-clash-with-concussion-2026-06-18/",
+          "confidence": 0.85,
+          "note": "Baja de Quinten Timber ante Suecia."
+        }
+      ],
+      "human_summary": "Países Bajos pierde a Quinten Timber para el partido ante Suecia. Baja relevante, aunque no de impacto extremo.",
+      "import_warnings": [
+        "Contexto preliminar: información todavía incompleta.",
+        "No interpretar absence_score=0 como ausencia confirmada de bajas si confidence es baja.",
+        "Context Engine V1 solo visualiza/audita contexto; no modifica probabilidades."
+      ]
+    },
+    {
+      "match_number": 6,
+      "home_team": "Alemania",
+      "away_team": "Costa Marfil",
+      "competition_type": "NATIONAL_TEAM",
+      "match_type": "WORLD_CUP",
+      "match_confidence": 0.35,
+      "venue": {
+        "is_neutral": false,
+        "country": "",
+        "city": "",
+        "stadium": "",
+        "altitude_relevant": false,
+        "altitude_meters": null,
+        "confidence": 0.1,
+        "note": "Sede pendiente de verificación contextual."
+      },
+      "home_context": {
+        "absence_score": 0,
+        "suspension_score": 0,
+        "rotation_risk": 0,
+        "motivation_score": 0,
+        "fatigue_score": 0,
+        "morale_score": 0,
+        "confidence": 0.2
+      },
+      "away_context": {
+        "absence_score": 0,
+        "suspension_score": 0,
+        "rotation_risk": 0,
+        "motivation_score": 0,
+        "fatigue_score": 0,
+        "morale_score": 0,
+        "confidence": 0.2
+      },
+      "context_impact": {
+        "direction": "NO_ADJUSTMENT",
+        "strength": "NONE",
+        "max_adjustment_percent": 0.0,
+        "confidence": 0.2,
+        "apply_to_prediction": false
+      },
+      "events": [],
+      "sources": [],
+      "human_summary": "Sin evento contextual de alto valor confirmado. Se mantiene en observación.",
+      "import_warnings": [
+        "Contexto preliminar: información todavía incompleta.",
+        "No interpretar absence_score=0 como ausencia confirmada de bajas si confidence es baja.",
+        "Context Engine V1 solo visualiza/audita contexto; no modifica probabilidades."
+      ]
+    },
+    {
+      "match_number": 7,
+      "home_team": "Ecuador",
+      "away_team": "Curazao",
+      "competition_type": "NATIONAL_TEAM",
+      "match_type": "WORLD_CUP",
+      "match_confidence": 0.35,
+      "venue": {
+        "is_neutral": false,
+        "country": "",
+        "city": "",
+        "stadium": "",
+        "altitude_relevant": false,
+        "altitude_meters": null,
+        "confidence": 0.1,
+        "note": "Sede pendiente de verificación contextual."
+      },
+      "home_context": {
+        "absence_score": 0,
+        "suspension_score": 0,
+        "rotation_risk": 0,
+        "motivation_score": 0,
+        "fatigue_score": 0,
+        "morale_score": 0,
+        "confidence": 0.2
+      },
+      "away_context": {
+        "absence_score": 0,
+        "suspension_score": 0,
+        "rotation_risk": 0,
+        "motivation_score": 0,
+        "fatigue_score": 0,
+        "morale_score": 0,
+        "confidence": 0.2
+      },
+      "context_impact": {
+        "direction": "NO_ADJUSTMENT",
+        "strength": "NONE",
+        "max_adjustment_percent": 0.0,
+        "confidence": 0.2,
+        "apply_to_prediction": false
+      },
+      "events": [],
+      "sources": [],
+      "human_summary": "Sin eventos contextuales de alto valor verificados en esta revisión.",
+      "import_warnings": [
+        "Contexto preliminar: información todavía incompleta.",
+        "No interpretar absence_score=0 como ausencia confirmada de bajas si confidence es baja.",
+        "Context Engine V1 solo visualiza/audita contexto; no modifica probabilidades."
+      ]
+    },
+    {
+      "match_number": 8,
+      "home_team": "Túnez",
+      "away_team": "Japón",
+      "competition_type": "NATIONAL_TEAM",
+      "match_type": "WORLD_CUP",
+      "match_confidence": 0.35,
+      "venue": {
+        "is_neutral": false,
+        "country": "",
+        "city": "",
+        "stadium": "",
+        "altitude_relevant": false,
+        "altitude_meters": null,
+        "confidence": 0.1,
+        "note": "Sede pendiente de verificación contextual."
+      },
+      "home_context": {
+        "absence_score": 0,
+        "suspension_score": 0,
+        "rotation_risk": 0,
+        "motivation_score": 0,
+        "fatigue_score": 0,
+        "morale_score": 0,
+        "confidence": 0.2
+      },
+      "away_context": {
+        "absence_score": 0,
+        "suspension_score": 0,
+        "rotation_risk": 0,
+        "motivation_score": 0,
+        "fatigue_score": 0,
+        "morale_score": 0,
+        "confidence": 0.2
+      },
+      "context_impact": {
+        "direction": "NO_ADJUSTMENT",
+        "strength": "NONE",
+        "max_adjustment_percent": 0.0,
+        "confidence": 0.2,
+        "apply_to_prediction": false
+      },
+      "events": [],
+      "sources": [],
+      "human_summary": "Sin nuevo evento sólido confirmado para esta jornada. Mantener seguimiento de disponibilidad japonesa en próximas revisiones.",
+      "import_warnings": [
+        "Contexto preliminar: información todavía incompleta.",
+        "No interpretar absence_score=0 como ausencia confirmada de bajas si confidence es baja.",
+        "Context Engine V1 solo visualiza/audita contexto; no modifica probabilidades."
+      ]
+    },
+    {
+      "match_number": 9,
+      "home_team": "Bélgica",
+      "away_team": "Irán",
+      "competition_type": "NATIONAL_TEAM",
+      "match_type": "WORLD_CUP",
+      "match_confidence": 0.35,
+      "venue": {
+        "is_neutral": false,
+        "country": "",
+        "city": "",
+        "stadium": "",
+        "altitude_relevant": false,
+        "altitude_meters": null,
+        "confidence": 0.1,
+        "note": "Sede pendiente de verificación contextual."
+      },
+      "home_context": {
+        "absence_score": 0,
+        "suspension_score": 0,
+        "rotation_risk": 0,
+        "motivation_score": 0,
+        "fatigue_score": 0,
+        "morale_score": 0,
+        "confidence": 0.2
+      },
+      "away_context": {
+        "absence_score": 0,
+        "suspension_score": 0,
+        "rotation_risk": 0,
+        "motivation_score": 0,
+        "fatigue_score": 0,
+        "morale_score": 0,
+        "confidence": 0.2
+      },
+      "context_impact": {
+        "direction": "NO_ADJUSTMENT",
+        "strength": "NONE",
+        "max_adjustment_percent": 0.0,
+        "confidence": 0.2,
+        "apply_to_prediction": false
+      },
+      "events": [],
+      "sources": [],
+      "human_summary": "Sin eventos contextuales de alto valor verificados en esta revisión.",
+      "import_warnings": [
+        "Contexto preliminar: información todavía incompleta.",
+        "No interpretar absence_score=0 como ausencia confirmada de bajas si confidence es baja.",
+        "Context Engine V1 solo visualiza/audita contexto; no modifica probabilidades."
+      ]
+    },
+    {
+      "match_number": 10,
+      "home_team": "Uruguay",
+      "away_team": "Cabo Verde",
+      "competition_type": "NATIONAL_TEAM",
+      "match_type": "WORLD_CUP",
+      "match_confidence": 0.35,
+      "venue": {
+        "is_neutral": false,
+        "country": "",
+        "city": "",
+        "stadium": "",
+        "altitude_relevant": false,
+        "altitude_meters": null,
+        "confidence": 0.1,
+        "note": "Sede pendiente de verificación contextual."
+      },
+      "home_context": {
+        "absence_score": 0,
+        "suspension_score": 0,
+        "rotation_risk": 0,
+        "motivation_score": 0,
+        "fatigue_score": 0,
+        "morale_score": 0,
+        "confidence": 0.2
+      },
+      "away_context": {
+        "absence_score": 0,
+        "suspension_score": 0,
+        "rotation_risk": 0,
+        "motivation_score": 0,
+        "fatigue_score": 0,
+        "morale_score": 0,
+        "confidence": 0.2
+      },
+      "context_impact": {
+        "direction": "NO_ADJUSTMENT",
+        "strength": "NONE",
+        "max_adjustment_percent": 0.0,
+        "confidence": 0.2,
+        "apply_to_prediction": false
+      },
+      "events": [],
+      "sources": [],
+      "human_summary": "Sin eventos contextuales de alto valor verificados en esta revisión.",
+      "import_warnings": [
+        "Contexto preliminar: información todavía incompleta.",
+        "No interpretar absence_score=0 como ausencia confirmada de bajas si confidence es baja.",
+        "Context Engine V1 solo visualiza/audita contexto; no modifica probabilidades."
+      ]
+    },
+    {
+      "match_number": 11,
+      "home_team": "Nueva Zelanda",
+      "away_team": "Egipto",
+      "competition_type": "NATIONAL_TEAM",
+      "match_type": "WORLD_CUP",
+      "match_confidence": 0.35,
+      "venue": {
+        "is_neutral": false,
+        "country": "",
+        "city": "",
+        "stadium": "",
+        "altitude_relevant": false,
+        "altitude_meters": null,
+        "confidence": 0.1,
+        "note": "Sede pendiente de verificación contextual."
+      },
+      "home_context": {
+        "absence_score": 0,
+        "suspension_score": 0,
+        "rotation_risk": 0,
+        "motivation_score": 0,
+        "fatigue_score": 0,
+        "morale_score": 0,
+        "confidence": 0.2
+      },
+      "away_context": {
+        "absence_score": 0,
+        "suspension_score": 0,
+        "rotation_risk": 0,
+        "motivation_score": 0,
+        "fatigue_score": 0,
+        "morale_score": 0,
+        "confidence": 0.2
+      },
+      "context_impact": {
+        "direction": "NO_ADJUSTMENT",
+        "strength": "NONE",
+        "max_adjustment_percent": 0.0,
+        "confidence": 0.2,
+        "apply_to_prediction": false
+      },
+      "events": [],
+      "sources": [],
+      "human_summary": "Sin eventos contextuales de alto valor verificados en esta revisión.",
+      "import_warnings": [
+        "Contexto preliminar: información todavía incompleta.",
+        "No interpretar absence_score=0 como ausencia confirmada de bajas si confidence es baja.",
+        "Context Engine V1 solo visualiza/audita contexto; no modifica probabilidades."
+      ]
+    },
+    {
+      "match_number": 12,
+      "home_team": "Argentina",
+      "away_team": "Austria",
+      "competition_type": "NATIONAL_TEAM",
+      "match_type": "WORLD_CUP",
+      "match_confidence": 0.35,
+      "venue": {
+        "is_neutral": false,
+        "country": "",
+        "city": "",
+        "stadium": "",
+        "altitude_relevant": false,
+        "altitude_meters": null,
+        "confidence": 0.1,
+        "note": "Sede pendiente de verificación contextual."
+      },
+      "home_context": {
+        "absence_score": 0,
+        "suspension_score": 0,
+        "rotation_risk": 0,
+        "motivation_score": 0,
+        "fatigue_score": 0,
+        "morale_score": 0,
+        "confidence": 0.2
+      },
+      "away_context": {
+        "absence_score": 0,
+        "suspension_score": 0,
+        "rotation_risk": 0,
+        "motivation_score": 0,
+        "fatigue_score": 0,
+        "morale_score": 0,
+        "confidence": 0.2
+      },
+      "context_impact": {
+        "direction": "NO_ADJUSTMENT",
+        "strength": "NONE",
+        "max_adjustment_percent": 0.0,
+        "confidence": 0.2,
+        "apply_to_prediction": false
+      },
+      "events": [],
+      "sources": [],
+      "human_summary": "Sin eventos contextuales de alto valor verificados en esta revisión.",
+      "import_warnings": [
+        "Contexto preliminar: información todavía incompleta.",
+        "No interpretar absence_score=0 como ausencia confirmada de bajas si confidence es baja.",
+        "Context Engine V1 solo visualiza/audita contexto; no modifica probabilidades."
+      ]
+    },
+    {
+      "match_number": 13,
+      "home_team": "Francia",
+      "away_team": "Irak",
+      "competition_type": "NATIONAL_TEAM",
+      "match_type": "WORLD_CUP",
+      "match_confidence": 0.35,
+      "venue": {
+        "is_neutral": false,
+        "country": "",
+        "city": "",
+        "stadium": "",
+        "altitude_relevant": false,
+        "altitude_meters": null,
+        "confidence": 0.1,
+        "note": "Sede pendiente de verificación contextual."
+      },
+      "home_context": {
+        "absence_score": 0,
+        "suspension_score": 0,
+        "rotation_risk": 0,
+        "motivation_score": 0,
+        "fatigue_score": 0,
+        "morale_score": 0,
+        "confidence": 0.2
+      },
+      "away_context": {
+        "absence_score": 0,
+        "suspension_score": 0,
+        "rotation_risk": 0,
+        "motivation_score": 0,
+        "fatigue_score": 0,
+        "morale_score": 0,
+        "confidence": 0.2
+      },
+      "context_impact": {
+        "direction": "NO_ADJUSTMENT",
+        "strength": "NONE",
+        "max_adjustment_percent": 0.0,
+        "confidence": 0.2,
+        "apply_to_prediction": false
+      },
+      "events": [],
+      "sources": [],
+      "human_summary": "Sin eventos contextuales de alto valor verificados en esta revisión.",
+      "import_warnings": [
+        "Contexto preliminar: información todavía incompleta.",
+        "No interpretar absence_score=0 como ausencia confirmada de bajas si confidence es baja.",
+        "Context Engine V1 solo visualiza/audita contexto; no modifica probabilidades."
+      ]
+    },
+    {
+      "match_number": 14,
+      "home_team": "Finalista 2 Playoff",
+      "away_team": "Finalista 1 Playoff",
+      "competition_type": "PLAYOFF",
+      "match_type": "UNRESOLVED",
+      "match_confidence": 0.05,
+      "venue": {
+        "is_neutral": false,
+        "country": "",
+        "city": "",
+        "stadium": "",
+        "altitude_relevant": false,
+        "altitude_meters": null,
+        "confidence": 0.1,
+        "note": "Partido pendiente de resolver: finalistas y sede todavía no fijados."
+      },
+      "home_context": {
+        "absence_score": 0,
+        "suspension_score": 0,
+        "rotation_risk": 0,
+        "motivation_score": 0,
+        "fatigue_score": 0,
+        "morale_score": 0,
+        "confidence": 0.05
+      },
+      "away_context": {
+        "absence_score": 0,
+        "suspension_score": 0,
+        "rotation_risk": 0,
+        "motivation_score": 0,
+        "fatigue_score": 0,
+        "morale_score": 0,
+        "confidence": 0.05
+      },
+      "context_impact": {
+        "direction": "NO_ADJUSTMENT",
+        "strength": "NONE",
+        "max_adjustment_percent": 0.0,
+        "confidence": 0.05,
+        "apply_to_prediction": false
+      },
+      "events": [],
+      "sources": [],
+      "human_summary": "Partido no resuelto. No se inventan equipos ni contexto competitivo específico.",
+      "import_warnings": [
+        "UNRESOLVED fixture: no mapear Finalista 1/2 como equipos reales.",
+        "Debe tratarse como contexto provisional de muy baja confianza.",
+        "Context Engine V1 solo visualiza/audita contexto; no modifica probabilidades."
+      ]
+    },
+    {
+      "match_number": 15,
+      "home_team": "España",
+      "away_team": "Arabia Saudí",
+      "competition_type": "NATIONAL_TEAM",
+      "match_type": "WORLD_CUP",
+      "match_confidence": 0.4,
+      "venue": {
+        "is_neutral": false,
+        "country": "",
+        "city": "",
+        "stadium": "",
+        "altitude_relevant": false,
+        "altitude_meters": null,
+        "confidence": 0.1,
+        "note": "Sede pendiente de verificación contextual."
+      },
+      "home_context": {
+        "absence_score": 0,
+        "suspension_score": 0,
+        "rotation_risk": 0,
+        "motivation_score": 0,
+        "fatigue_score": 0,
+        "morale_score": 0,
+        "confidence": 0.2
+      },
+      "away_context": {
+        "absence_score": 0,
+        "suspension_score": 0,
+        "rotation_risk": 0,
+        "motivation_score": 0,
+        "fatigue_score": 0,
+        "morale_score": 0,
+        "confidence": 0.2
+      },
+      "context_impact": {
+        "direction": "NO_ADJUSTMENT",
+        "strength": "NONE",
+        "max_adjustment_percent": 0.0,
+        "confidence": 0.2,
+        "apply_to_prediction": false
+      },
+      "events": [],
+      "sources": [],
+      "human_summary": "Sin eventos contextuales de alto valor verificados todavía para el Pleno al 15. Mantener seguimiento de rotaciones y disponibilidad.",
+      "import_warnings": [
+        "Contexto preliminar: información todavía incompleta.",
+        "No interpretar absence_score=0 como ausencia confirmada de bajas si confidence es baja.",
+        "Context Engine V1 solo visualiza/audita contexto; no modifica probabilidades."
+      ]
+    }
+  ],
+  "officialRoundId": "official-2025-2026-68"
+}
