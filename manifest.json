@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "project": "MDI QuinielaPro Data Repository",
-  "publishedAt": "2026-06-19T07:42:36.153083Z",
+  "publishedAt": "2026-06-20T13:16:27.852420Z",
   "dataVersion": "2025-2026-67",
   "health": {
     "status": "HEALTHY",
@@ -25,7 +25,8 @@
     "round": 68,
     "resultsAvailable": false,
     "contextAvailable": false,
-    "playerInfoAvailable": true
+    "playerInfoAvailable": true,
+    "remoteAppAccessAvailable": true
   },
   "compatibility": {
     "minAndroidDataSchema": 1,
@@ -42,11 +43,19 @@
     "playerInfoMatchday": "player_info/player_info_matchday.json",
     "playerInfoManifest": "player_info/manifest_player_info.json",
     "playerInfoTeamRosters": "player_info/team_rosters/",
+    "remoteAppAccess": "remote_config/app_access.json",
     "changelog": "releases/changelog.json",
     "auditLog": "releases/audit_log.json"
   },
+  "remoteConfig": {
+    "appAccess": "remote_config/app_access.json",
+    "betsAccessEnabled": true,
+    "pinRequired": true,
+    "pinVersion": 2,
+    "updatedAt": "2026-06-20T13:07:10.900603Z"
+  },
   "_localViewer": {
-    "version": "0.9.7.1",
+    "version": "0.9.8.1",
     "generatedBy": "QuinielaPro Viewer Manifest Generator V1",
     "latestRoundId": "official-2025-2026-67",
     "rounds": 1096
