@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "project": "MDI QuinielaPro Data Repository",
-  "publishedAt": "2026-06-20T13:16:27.852420Z",
+  "publishedAt": "2026-06-20T13:40:42.328880Z",
   "dataVersion": "2025-2026-67",
   "health": {
     "status": "HEALTHY",
@@ -51,8 +51,8 @@
     "appAccess": "remote_config/app_access.json",
     "betsAccessEnabled": true,
     "pinRequired": true,
-    "pinVersion": 2,
-    "updatedAt": "2026-06-20T13:07:10.900603Z"
+    "pinVersion": 3,
+    "updatedAt": "2026-06-20T13:40:17.248324Z"
   },
   "_localViewer": {
     "version": "0.9.8.1",
