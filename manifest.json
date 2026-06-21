@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "project": "MDI QuinielaPro Data Repository",
-  "publishedAt": "2026-06-20T18:29:44.486888Z",
+  "publishedAt": "2026-06-21T06:52:22.504885Z",
   "dataVersion": "2025-2026-67",
   "health": {
     "status": "HEALTHY",
@@ -64,11 +64,11 @@
     "appAccess": "remote_config/app_access.json",
     "betsAccessEnabled": true,
     "pinRequired": true,
-    "pinVersion": 3,
-    "updatedAt": "2026-06-20T13:40:17.248324Z"
+    "pinVersion": 4,
+    "updatedAt": "2026-06-21T06:51:40.347888Z"
   },
   "_localViewer": {
-    "version": "0.9.8.1",
+    "version": "0.9.9",
     "generatedBy": "QuinielaPro Viewer Manifest Generator V1",
     "latestRoundId": "official-2025-2026-67",
     "rounds": 1096
