@@ -9,7 +9,7 @@
   "rosterConfidence": "MEDIUM",
   "rosterWarning": "Generated from recent national team appearances. Not an official squad list.",
   "source": "transfermarkt-datasets",
-  "updatedAt": "2026-06-19T07:33:33.070329+00:00",
+  "updatedAt": "2026-06-21T08:02:52.576473+00:00",
   "coach": null,
   "players": [
     {
@@ -370,7 +370,7 @@
       "detailedPosition": "Centre-Back",
       "nationality": "Iran",
       "dateOfBirth": "1996-06-20 00:00:00",
-      "age": 29,
+      "age": 30,
       "heightInCm": 187,
       "currentClubName": "Kayserispor Kulübü",
       "photoUrl": "https://img.a.transfermarkt.technology/portrait/header/294767-1770893333.jpg?lm=1",
