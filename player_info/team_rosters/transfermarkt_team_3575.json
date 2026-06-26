@@ -9,7 +9,7 @@
   "rosterConfidence": "MEDIUM",
   "rosterWarning": "Generated from recent national team appearances. Not an official squad list.",
   "source": "transfermarkt-datasets",
-  "updatedAt": "2026-06-21T08:02:50.890967+00:00",
+  "updatedAt": "2026-06-26T06:23:23.983609+00:00",
   "coach": null,
   "players": [
     {
@@ -188,7 +188,7 @@
       "detailedPosition": "Centre-Forward",
       "nationality": "Morocco",
       "dateOfBirth": "1993-06-25 00:00:00",
-      "age": 32,
+      "age": 33,
       "heightInCm": 182,
       "currentClubName": "Olympiakos Syndesmos Filathlon Peiraios",
       "photoUrl": "https://img.a.transfermarkt.technology/portrait/header/521127-1757716791.png?lm=1",
