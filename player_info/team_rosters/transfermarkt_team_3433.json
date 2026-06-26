@@ -9,7 +9,7 @@
   "rosterConfidence": "MEDIUM",
   "rosterWarning": "Generated from recent national team appearances. Not an official squad list.",
   "source": "transfermarkt-datasets",
-  "updatedAt": "2026-06-21T08:02:50.724593+00:00",
+  "updatedAt": "2026-06-26T06:23:23.823160+00:00",
   "coach": null,
   "players": [
     {
@@ -132,7 +132,7 @@
       "detailedPosition": "Centre-Back",
       "nationality": "Australia",
       "dateOfBirth": "1998-06-24 00:00:00",
-      "age": 27,
+      "age": 28,
       "heightInCm": 185,
       "currentClubName": "D.C. United",
       "photoUrl": "https://img.a.transfermarkt.technology/portrait/header/399990-1771687955.jpg?lm=1",
