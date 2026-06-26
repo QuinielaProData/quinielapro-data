@@ -9,7 +9,7 @@
   "rosterConfidence": "MEDIUM",
   "rosterWarning": "Generated from recent national team appearances. Not an official squad list.",
   "source": "transfermarkt-datasets",
-  "updatedAt": "2026-06-21T08:02:52.932089+00:00",
+  "updatedAt": "2026-06-26T06:23:25.192182+00:00",
   "coach": null,
   "players": [
     {
@@ -118,7 +118,7 @@
       "detailedPosition": "Right Winger",
       "nationality": "Argentina",
       "dateOfBirth": "1987-06-24 00:00:00",
-      "age": 38,
+      "age": 39,
       "heightInCm": 170,
       "currentClubName": "Club Internacional de Fútbol Miami",
       "photoUrl": "https://img.a.transfermarkt.technology/portrait/header/28003-1771694720.jpg?lm=1",
