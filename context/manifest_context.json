@@ -1,13 +1,10 @@
 {
   "schemaVersion": 1,
   "season": "2025-2026",
-  "round": 68,
-  "officialRoundId": "official-2025-2026-68",
-  "contextVersion": 2,
-  "updatedAt": "2026-06-19T19:11:41Z",
-  "status": "AVAILABLE",
-  "hash": "a54dfb2ecd131d07c763275c5b488106b5dcccf1edeca9f7739b731b3500de91",
-  "quality": "MEDIUM",
-  "confidence": "0.42",
-  "totalEvents": 4
+  "round": 69,
+  "officialRoundId": "official-2025-2026-69",
+  "contextVersion": 0,
+  "updatedAt": "2026-06-26T06:30:32.010957Z",
+  "status": "EMPTY",
+  "hash": null
 }
