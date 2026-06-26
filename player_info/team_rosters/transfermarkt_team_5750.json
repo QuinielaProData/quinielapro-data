@@ -9,7 +9,7 @@
   "rosterConfidence": "MEDIUM",
   "rosterWarning": "Generated from recent national team appearances. Not an official squad list.",
   "source": "transfermarkt-datasets",
-  "updatedAt": "2026-06-21T08:02:52.210165+00:00",
+  "updatedAt": "2026-06-26T06:23:24.503007+00:00",
   "coach": null,
   "players": [
     {
@@ -118,7 +118,7 @@
       "detailedPosition": "Second Striker",
       "nationality": "Ecuador",
       "dateOfBirth": "2000-06-23 00:00:00",
-      "age": 25,
+      "age": 26,
       "heightInCm": 170,
       "currentClubName": "Venezia FC",
       "photoUrl": "https://img.a.transfermarkt.technology/portrait/header/439914-1668768754.png?lm=1",
