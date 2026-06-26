@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "project": "MDI QuinielaPro Data Repository",
-  "publishedAt": "2026-06-26T06:21:51.607212Z",
+  "publishedAt": "2026-06-26T06:30:48.189813Z",
   "dataVersion": "2025-2026-67",
   "health": {
     "status": "HEALTHY",
@@ -22,22 +22,22 @@
   "active": {
     "status": "ACTIVE",
     "season": "2025-2026",
-    "round": 68,
+    "round": 69,
     "resultsAvailable": false,
-    "contextAvailable": true,
+    "contextAvailable": false,
     "playerInfoAvailable": true,
     "remoteAppAccessAvailable": true
   },
   "context": {
-    "status": "AVAILABLE",
+    "status": "EMPTY",
     "manifest": "context/manifest_context.json",
     "activeContext": "context/active_context.json",
     "season": "2025-2026",
-    "round": 68,
-    "officialRoundId": "official-2025-2026-68",
-    "contextVersion": 2,
-    "hash": "a54dfb2ecd131d07c763275c5b488106b5dcccf1edeca9f7739b731b3500de91",
-    "updatedAt": "2026-06-19T19:11:41Z"
+    "round": 69,
+    "officialRoundId": "official-2025-2026-69",
+    "contextVersion": 0,
+    "hash": null,
+    "updatedAt": "2026-06-26T06:30:32.010957Z"
   },
   "compatibility": {
     "minAndroidDataSchema": 1,
