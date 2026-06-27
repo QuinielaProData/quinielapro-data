@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "rosterId": "transfermarkt_team_3433",
-  "teamName": "Australia",
+  "teamName": "AUSTRALIA",
   "canonicalTeamName": "Australia",
   "teamType": "national_team",
   "sourceTeamId": "3433",
@@ -9,7 +9,7 @@
   "rosterConfidence": "MEDIUM",
   "rosterWarning": "Generated from recent national team appearances. Not an official squad list.",
   "source": "transfermarkt-datasets",
-  "updatedAt": "2026-06-26T06:23:23.823160+00:00",
+  "updatedAt": "2026-06-27T16:41:05.849983+00:00",
   "coach": null,
   "players": [
     {
