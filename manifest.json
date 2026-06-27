@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
   "project": "MDI QuinielaPro Data Repository",
-  "publishedAt": "2026-06-27T17:24:16.523315Z",
-  "dataVersion": "2025-2026-67",
+  "publishedAt": "2026-06-27T18:21:46.783033Z",
+  "dataVersion": "2025-2026-69",
   "health": {
     "status": "HEALTHY",
     "warnings": []
   },
   "historical": {
-    "masterVersion": "2025-2026-67",
-    "masterSha256": "525f8b64a4323a0deb10bbf2313d23a53a5511e143b2dcd284504d3df266b772",
-    "masterSizeBytes": 5101552,
-    "masterRows": 16440,
+    "masterVersion": "2025-2026-69",
+    "masterSha256": "b18db9abc542c23a60bfdac8002970f5b8ba78c5b8b4fcc185cd78cb2d9557c6",
+    "masterSizeBytes": 5109964,
+    "masterRows": 16470,
     "latestConsolidatedSeason": "2025-2026",
-    "latestConsolidatedRound": 67
+    "latestConsolidatedRound": 69
   },
   "catalogs": {
     "teamIdentityCatalogVersion": "local",
@@ -70,7 +70,7 @@
   "_localViewer": {
     "version": "0.9.9.5",
     "generatedBy": "QuinielaPro Viewer Manifest Generator V1",
-    "latestRoundId": "official-2025-2026-67",
-    "rounds": 1096
+    "latestRoundId": "official-2025-2026-69",
+    "rounds": 1098
   }
 }
