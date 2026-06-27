@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "project": "MDI QuinielaPro Data Repository",
-  "publishedAt": "2026-06-27T13:12:19.531271Z",
+  "publishedAt": "2026-06-27T16:47:14.878559Z",
   "dataVersion": "2025-2026-67",
   "health": {
     "status": "HEALTHY",
@@ -22,7 +22,7 @@
   "active": {
     "status": "ACTIVE",
     "season": "2025-2026",
-    "round": 69,
+    "round": 70,
     "resultsAvailable": false,
     "contextAvailable": false,
     "playerInfoAvailable": true,
