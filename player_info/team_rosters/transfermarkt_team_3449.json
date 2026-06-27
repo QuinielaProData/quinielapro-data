@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "rosterId": "transfermarkt_team_3449",
-  "teamName": "Uruguay",
+  "teamName": "URUGUAY",
   "canonicalTeamName": "Uruguay",
   "teamType": "national_team",
   "sourceTeamId": "3449",
@@ -9,7 +9,7 @@
   "rosterConfidence": "MEDIUM",
   "rosterWarning": "Generated from recent national team appearances. Not an official squad list.",
   "source": "transfermarkt-datasets",
-  "updatedAt": "2026-06-26T06:23:24.943387+00:00",
+  "updatedAt": "2026-06-27T16:41:07.066751+00:00",
   "coach": null,
   "players": [
     {
