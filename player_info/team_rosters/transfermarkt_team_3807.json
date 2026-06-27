@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "rosterId": "transfermarkt_team_3807",
-  "teamName": "Arabia Saudi",
+  "teamName": "ARABIA SAUDI",
   "canonicalTeamName": "Saudi Arabia",
   "teamType": "national_team",
   "sourceTeamId": "3807",
@@ -9,7 +9,7 @@
   "rosterConfidence": "MEDIUM",
   "rosterWarning": "Generated from recent national team appearances. Not an official squad list.",
   "source": "transfermarkt-datasets",
-  "updatedAt": "2026-06-26T06:23:25.445899+00:00",
+  "updatedAt": "2026-06-27T16:41:06.102433+00:00",
   "coach": null,
   "players": [
     {
