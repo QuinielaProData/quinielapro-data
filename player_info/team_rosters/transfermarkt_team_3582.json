@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "rosterId": "transfermarkt_team_3582",
-  "teamName": "Irán",
+  "teamName": "IRAN",
   "canonicalTeamName": "Iran",
   "teamType": "national_team",
   "sourceTeamId": "3582",
@@ -9,7 +9,7 @@
   "rosterConfidence": "MEDIUM",
   "rosterWarning": "Generated from recent national team appearances. Not an official squad list.",
   "source": "transfermarkt-datasets",
-  "updatedAt": "2026-06-26T06:23:24.854776+00:00",
+  "updatedAt": "2026-06-27T16:41:06.297809+00:00",
   "coach": null,
   "players": [
     {
