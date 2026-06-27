@@ -7,7 +7,7 @@ Rosario Central,rosariocentral,Rosario Central|rosariocentral,Argentine Primera 
 Argentina,argentina,argentina|Argentina,Selecciones,CURATED_NATIONAL_TEAM,,Argentina,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=34
 Noah,noah,Noah|noah,Armenian Premier League,CURATED_TEAM_CATALOG,,Armenia,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
 Armenia,armenia,Armenia|armenia,Selecciones,CURATED_NATIONAL_TEAM,,Armenia,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=30
-Australia,australia,Australia|australia,Selecciones,CURATED_NATIONAL_TEAM,,Australia,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=18
+Australia,australia,Australia|australia|AUS,Selecciones,CURATED_NATIONAL_TEAM,,Australia,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=18
 Australia FEM,australiafem,Australia FEM|australiafem,Selecciones,CURATED_NATIONAL_TEAM,,Australia,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=8
 Salzburgo,salzburgo,salzburgo|Salzburgo,Austrian Bundesliga,CURATED_TEAM_CATALOG,,Austria,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=110
 Rapid Viena,rapidviena,Rapid Viena|rapidviena,Austrian Bundesliga,CURATED_TEAM_CATALOG,,Austria,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=20
@@ -46,14 +46,14 @@ Westerlo,westerlo,Westerlo|westerlo,Belgian Pro League,CURATED_TEAM_CATALOG,,Bel
 Anderlecth FEM,anderlecthfem,Anderlecth FEM|anderlecthfem,Belgian Pro League,CURATED_TEAM_CATALOG,,Belgium,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
 Circulo Brujas,circulobrujas,Circulo Brujas|circulobrujas,Belgian Pro League,CURATED_TEAM_CATALOG,,Belgium,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
 Mechelen,mechelen,Mechelen|mechelen,Belgian Pro League,CURATED_TEAM_CATALOG,,Belgium,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
-Bélgica,belgica,belgica|Bélgica,Selecciones,CURATED_NATIONAL_TEAM,,Belgium,APPROVED,HIGH,Logo not confirmed in current assets
+Bélgica,belgica,belgica|Bélgica|Belgium,Selecciones,CURATED_NATIONAL_TEAM,,Belgium,APPROVED,HIGH,Logo not confirmed in current assets
 Bélgica S21,belgicas21,belgicas21|Bélgica S21,Selecciones,CURATED_NATIONAL_TEAM,,Belgium,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=4
 Benin,benin,benin|Benin,Selecciones,CURATED_NATIONAL_TEAM,,Benin,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
 Islas Bermudas,islasbermudas,Islas Bermudas|islasbermudas,Selecciones,CURATED_NATIONAL_TEAM,,Bermuda,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=4
 Wilstermann,wilstermann,wilstermann|Wilstermann,Bolivian Primera División,CURATED_TEAM_CATALOG,,Bolivia,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
 Bolivia,bolivia,bolivia|Bolivia,Selecciones,CURATED_NATIONAL_TEAM,,Bolivia,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=8
 Zrinjski,zrinjski,zrinjski|Zrinjski,Premier League of Bosnia and Herzegovina,CURATED_TEAM_CATALOG,,Bosnia and Herzegovina,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
-Bosnia-Herzegovina,bosniaherzegovina,Bosnia-Herzegovina|Bosnia|Bosnia y Herzegovina,Selecciones,CURATED_NATIONAL_TEAM,,Bosnia and Herzegovina,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=48; Actualizado Viewer 2026-06-27: aliases EduardoLosilla/J68-J71.
+Bosnia-Herzegovina,bosniaherzegovina,Bosnia-Herzegovina|Bosnia|Bosnia y Herzegovina|Bosnia and Herzegovina,Selecciones,CURATED_NATIONAL_TEAM,,Bosnia and Herzegovina,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=48; Actualizado Viewer 2026-06-27: aliases EduardoLosilla/J68-J71.
 Brasil,brasil,Brasil|brasil,Selecciones,CURATED_NATIONAL_TEAM,,Brazil,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=22
 Brasil FEM,brasilfem,Brasil FEM|brasilfem,Selecciones,CURATED_NATIONAL_TEAM,,Brazil,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=8
 Ludogorets Razgrad,ludogoretsrazgrad,Ludogorets Razgrad|ludogoretsrazgrad,First Professional Football League,CURATED_TEAM_CATALOG,,Bulgaria,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=52
@@ -65,7 +65,7 @@ Burundi,burundi,Burundi|burundi,Selecciones,CURATED_NATIONAL_TEAM,,Burundi,APPRO
 Camerun,camerun,Camerun|camerun,Selecciones,CURATED_NATIONAL_TEAM,,Cameroon,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=16
 Canadá,canada,canada|Canadá,Selecciones,CURATED_NATIONAL_TEAM,,Canada,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=14
 Canada FEM,canadafem,Canada FEM|canadafem,Selecciones,CURATED_NATIONAL_TEAM,,Canada,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=8
-Cabo Verde,caboverde,Cabo Verde|caboverde,Selecciones,CURATED_NATIONAL_TEAM,,Cape Verde,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
+Cabo Verde,caboverde,Cabo Verde|caboverde|Cape Verde,Selecciones,CURATED_NATIONAL_TEAM,,Cape Verde,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
 U. Católica,ucatolica,U. Católica|ucatolica,Chilean Primera División,CURATED_TEAM_CATALOG,,Chile,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
 Chile,chile,Chile|chile,Selecciones,CURATED_NATIONAL_TEAM,,Chile,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=10
 Chile FEM,chilefem,Chile FEM|chilefem,Selecciones,CURATED_NATIONAL_TEAM,,Chile,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
@@ -82,7 +82,7 @@ Osijek FEM,osijekfem,Osijek FEM|osijekfem,Croatian Football League,CURATED_TEAM_
 Rijeka,rijeka,Rijeka|rijeka,Croatian Football League,CURATED_TEAM_CATALOG,,Croatia,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
 Croacia,croacia,croacia|Croacia,Selecciones,CURATED_NATIONAL_TEAM,,Croatia,APPROVED,HIGH,Logo not confirmed in current assets
 Croacia S21,croacias21,Croacia S21|croacias21,Selecciones,CURATED_NATIONAL_TEAM,,Croatia,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
-Curazao,curazao,curazao|Curazao,Selecciones,CURATED_NATIONAL_TEAM,,Curaçao,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=4
+Curazao,curazao,curazao|Curazao|Curaçao,Selecciones,CURATED_NATIONAL_TEAM,,Curaçao,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=4
 Apoel,apoel,apoel|Apoel,Cypriot First Division,CURATED_TEAM_CATALOG,,Cyprus,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=46
 AEL Limassol FC,aellimassol,AEL Limassol FC|aellimassol,Cypriot First Division,CURATED_TEAM_CATALOG,,Cyprus,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=4
 Omonia,omonia,omonia|Omonia,Cypriot First Division,CURATED_TEAM_CATALOG,,Cyprus,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=4
@@ -96,8 +96,8 @@ Sparta Praha,spartapraha,Sparta Praha|spartapraha,Czech First League,CURATED_TEA
 Sigma Olomuc,sigmaolomuc,Sigma Olomuc|sigmaolomuc,Czech First League,CURATED_TEAM_CATALOG,,Czech Republic,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
 Slavia Praga,slaviapraga,Slavia Praga|slaviapraga,Czech First League,CURATED_TEAM_CATALOG,,Czech Republic,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
 Slovacko FEM,slovackofem,Slovacko FEM|slovackofem,Czech First League,CURATED_TEAM_CATALOG,,Czech Republic,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
-Repub. Checa,repubcheca,Repub. Checa|Rep.Checa|República Checa|Chequia|Czech Republic,Selecciones,CURATED_NATIONAL_TEAM,,Czech Republic,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=38; Actualizado Viewer 2026-06-27: aliases EduardoLosilla/J68-J71.
-RD Congo,rdcongo,RD Congo|rdcongo,Selecciones,CURATED_NATIONAL_TEAM,,DR Congo,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
+Repub. Checa,repubcheca,Repub. Checa|Rep.Checa|República Checa|Chequia|Czech Republic|Czechia,Selecciones,CURATED_NATIONAL_TEAM,,Czech Republic,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=38; Actualizado Viewer 2026-06-27: aliases EduardoLosilla/J68-J71.
+RD Congo,rdcongo,RD Congo|rdcongo|DR Congo|Congo DR|República Democrática del Congo,Selecciones,CURATED_NATIONAL_TEAM,,DR Congo,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
 Copenhague,copenhague,copenhague|Copenhague,Danish Superliga,CURATED_TEAM_CATALOG,,Denmark,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=52
 Kobenhavn,kobenhavn,kobenhavn|Kobenhavn,Danish Superliga,CURATED_TEAM_CATALOG,,Denmark,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=28
 Midtjylland,midtjylland,midtjylland|Midtjylland,Danish Superliga,CURATED_TEAM_CATALOG,,Denmark,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=18
@@ -139,13 +139,13 @@ Fulham,fulham,Fulham|fulham,Premier League,CURATED_TEAM_CATALOG,,England,APPROVE
 Leeds,leeds,leeds|Leeds,Premier League,CURATED_TEAM_CATALOG,,England,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=34
 Nottingham,nottingham,nottingham|Nottingham,Premier League,CURATED_TEAM_CATALOG,,England,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=32
 Sunderland,sunderland,Sunderland|sunderland,Premier League,CURATED_TEAM_CATALOG,,England,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=22
-Inglaterra,inglaterra,inglaterra|Inglaterra,Selecciones,CURATED_NATIONAL_TEAM,,England,APPROVED,HIGH,Logo not confirmed in current assets
+Inglaterra,inglaterra,inglaterra|Inglaterra|England,Selecciones,CURATED_NATIONAL_TEAM,,England,APPROVED,HIGH,Logo not confirmed in current assets
 Inglaterra S21,inglaterras21,Inglaterra S21|inglaterras21,Selecciones,CURATED_NATIONAL_TEAM,,England,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
 Estonia,estonia,Estonia|estonia,Selecciones,CURATED_NATIONAL_TEAM,,Estonia,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=28
 Islas Feroe,islasferoe,Islas Feroe|islasferoe,Selecciones,CURATED_NATIONAL_TEAM,,Faroe Islands,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=26
 Finlandia,finlandia,Finlandia|finlandia,Selecciones,CURATED_NATIONAL_TEAM,,Finland,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=60
-HJK Helsinki,hjkhelsinki,HJK Helsinki|hjkhelsinki,Veikkausliiga,CURATED_TEAM_CATALOG,,Finland,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=8
-Kups Kuopio,kupskuopio,Kups Kuopio|KuPS,Veikkausliiga,CURATED_TEAM_CATALOG,,Finland,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2; Actualizado Viewer 2026-06-27: aliases EduardoLosilla/J68-J71.
+HJK Helsinki,hjkhelsinki,HJK Helsinki|hjkhelsinki|HJK|Helsingin JK|Helsingin Jalkapalloklubi,Veikkausliiga,CURATED_TEAM_CATALOG,,Finland,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=8
+Kups Kuopio,kupskuopio,Kups Kuopio|KuPS|Kuopion Palloseura,Veikkausliiga,CURATED_TEAM_CATALOG,,Finland,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2; Actualizado Viewer 2026-06-27: aliases EduardoLosilla/J68-J71.
 Paris FEM,parisfem,Paris FEM|parisfem,Division 1 Féminine,CURATED_TEAM_CATALOG,,France,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
 Paris SG,parissg,Paris SG|parissg|PSG,Ligue 1,CURATED_TEAM_CATALOG,,France,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=264
 Lyon,lyon,lyon|Lyon,Ligue 1,CURATED_TEAM_CATALOG,,France,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=136
@@ -174,7 +174,7 @@ Olympique de Marsella,olympiquemarsella,Olympique de Marsella|olympiquemarsella,
 Ajaccio,ajaccio,ajaccio|Ajaccio,Ligue 1,CURATED_TEAM_CATALOG,,France,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
 Burdeos,burdeos,Burdeos|burdeos,Ligue 1,CURATED_TEAM_CATALOG,,France,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
 Troyes,troyes,troyes|Troyes,Ligue 1,CURATED_TEAM_CATALOG,,France,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
-Francia,francia,Francia|francia,Selecciones,CURATED_NATIONAL_TEAM,,France,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=100
+Francia,francia,Francia|francia|France,Selecciones,CURATED_NATIONAL_TEAM,,France,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=100
 Francia FEM,franciafem,Francia FEM|franciafem,Selecciones,CURATED_NATIONAL_TEAM,,France,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=8
 Francia S21,francias21,Francia S21|francias21,Selecciones,CURATED_NATIONAL_TEAM,,France,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
 Gabon,gabon,Gabon|gabon,Selecciones,CURATED_NATIONAL_TEAM,,Gabon,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
@@ -209,10 +209,10 @@ F. Dusseldorf,fdusseldorf,F. Dusseldorf|fdusseldorf,Bundesliga,CURATED_TEAM_CATA
 Nuremberg,nuremberg,nuremberg|Nuremberg,Bundesliga,CURATED_TEAM_CATALOG,,Germany,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
 St. Pauli,stpauli,St. Pauli|stpauli,Bundesliga,CURATED_TEAM_CATALOG,,Germany,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
 Eintracht FEM,eintrachtfem,Eintracht FEM|eintrachtfem,Frauen-Bundesliga,CURATED_TEAM_CATALOG,,Germany,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
-Alemania,alemania,Alemania|alemania,Selecciones,CURATED_NATIONAL_TEAM,,Germany,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=96
+Alemania,alemania,Alemania|alemania|Germany,Selecciones,CURATED_NATIONAL_TEAM,,Germany,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=96
 Alemania FEM,alemaniafem,Alemania FEM|alemaniafem,Selecciones,CURATED_NATIONAL_TEAM,,Germany,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=10
 Alemania S21,alemanias21,Alemania S21|alemanias21,Selecciones,CURATED_NATIONAL_TEAM,,Germany,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=4
-Ghana,ghana,Ghana|ghana,Selecciones,CURATED_NATIONAL_TEAM,,Ghana,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=14
+Ghana,ghana,Ghana|ghana|GANA,Selecciones,CURATED_NATIONAL_TEAM,,Ghana,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=14
 Gibraltar,gibraltar,gibraltar|Gibraltar,Selecciones,CURATED_NATIONAL_TEAM,,Gibraltar,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
 Grecia,grecia,Grecia|grecia,Selecciones,CURATED_NATIONAL_TEAM,,Greece,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=74
 Olympiacos,olympiacos,Olympiacos|olympiacos,Super League Greece,CURATED_TEAM_CATALOG,,Greece,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=134
@@ -231,7 +231,7 @@ Debreceni,debreceni,debreceni|Debreceni,Nemzeti Bajnokság I,CURATED_TEAM_CATALO
 Hungría,hungria,hungria|Hungría,Selecciones,CURATED_NATIONAL_TEAM,,Hungary,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=76
 Islandia,islandia,islandia|Islandia,Selecciones,CURATED_NATIONAL_TEAM,,Iceland,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=48
 Irán,iran,iran|Irán,Selecciones,CURATED_NATIONAL_TEAM,,Iran,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=10
-Irak,irak,Irak|irak,Selecciones,CURATED_NATIONAL_TEAM,,Iraq,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=8
+Irak,irak,Irak|irak|Iraq,Selecciones,CURATED_NATIONAL_TEAM,,Iraq,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=8
 Rep. Irlanda,repirlanda,Rep. Irlanda|repirlanda,Selecciones,CURATED_NATIONAL_TEAM,,Ireland,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=38
 Irlanda,irlanda,irlanda|Irlanda,Selecciones,CURATED_NATIONAL_TEAM,,Ireland,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=26
 Irlanda FEM,irlandafem,Irlanda FEM|irlandafem,Selecciones,CURATED_NATIONAL_TEAM,,Ireland,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
@@ -270,11 +270,11 @@ Salernitana,salernitana,Salernitana|salernitana,Serie A,CURATED_TEAM_CATALOG,,It
 Monza,monza,monza|Monza,Serie A,CURATED_TEAM_CATALOG,,Italy,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=4
 Venecia,venecia,venecia|Venecia,Serie A,CURATED_TEAM_CATALOG,,Italy,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=4
 Juventus FEM,juventusfem,Juventus FEM|juventusfem,Serie A Femminile,CURATED_TEAM_CATALOG,,Italy,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
-Costa Marfil,costamarfil,Costa Marfil|costamarfil,Selecciones,CURATED_NATIONAL_TEAM,,Ivory Coast,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=10
+Costa Marfil,costamarfil,Costa Marfil|costamarfil|Costa de Marfil|Ivory Coast|Côte d'Ivoire,Selecciones,CURATED_NATIONAL_TEAM,,Ivory Coast,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=10
 Jamaica,jamaica,jamaica|Jamaica,Selecciones,CURATED_NATIONAL_TEAM,,Jamaica,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=10
 Jamaica FEM,jamaicafem,Jamaica FEM|jamaicafem,Selecciones,CURATED_NATIONAL_TEAM,,Jamaica,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
 Urawa,urawa,Urawa|urawa,J1 League,CURATED_TEAM_CATALOG,,Japan,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=6
-Japón,japon,japon|Japón,Selecciones,CURATED_NATIONAL_TEAM,,Japan,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=28
+Japón,japon,japon|Japón|Japan,Selecciones,CURATED_NATIONAL_TEAM,,Japan,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=28
 Japon FEM,japonfem,Japon FEM|japonfem,Selecciones,CURATED_NATIONAL_TEAM,,Japan,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=8
 Astana,astana,astana|Astana,Kazakhstan Premier League,CURATED_TEAM_CATALOG,,Kazakhstan,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=16
 Kairat,kairat,Kairat|kairat,Kazakhstan Premier League,CURATED_TEAM_CATALOG,,Kazakhstan,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
@@ -301,7 +301,7 @@ Sheriff,sheriff,sheriff|Sheriff,Moldovan Super Liga,CURATED_TEAM_CATALOG,,Moldov
 Moldavia,moldavia,Moldavia|moldavia,Selecciones,CURATED_NATIONAL_TEAM,,Moldova,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=38
 Montenegro,montenegro,Montenegro|montenegro,Selecciones,CURATED_NATIONAL_TEAM,,Montenegro,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=28
 Wydad,wydad,wydad|Wydad,Botola Pro,CURATED_TEAM_CATALOG,,Morocco,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=4
-Marruecos,marruecos,marruecos|Marruecos,Selecciones,CURATED_NATIONAL_TEAM,,Morocco,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=24
+Marruecos,marruecos,marruecos|Marruecos|Morocco,Selecciones,CURATED_NATIONAL_TEAM,,Morocco,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=24
 Marruecos FEM,marruecosfem,Marruecos FEM|marruecosfem,Selecciones,CURATED_NATIONAL_TEAM,,Morocco,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
 Ajax,ajax,ajax|Ajax,Eredivisie,CURATED_TEAM_CATALOG,,Netherlands,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=194
 PSV,psv,psv|PSV,Eredivisie,CURATED_TEAM_CATALOG,,Netherlands,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=130
@@ -314,10 +314,10 @@ Heerenveen,heerenveen,heerenveen|Heerenveen,Eredivisie,CURATED_TEAM_CATALOG,,Net
 Fortuna Sittard,fortunasittard,Fortuna Sittard|fortunasittard,Eredivisie,CURATED_TEAM_CATALOG,,Netherlands,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
 Heracles,heracles,Heracles|heracles,Eredivisie,CURATED_TEAM_CATALOG,,Netherlands,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
 Sp Rotterdam,sprotterdam,Sp Rotterdam|sprotterdam,Eredivisie,CURATED_TEAM_CATALOG,,Netherlands,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
-Países Bajos,paisesbajos,paisesbajos|Países Bajos,Selecciones,CURATED_NATIONAL_TEAM,,Netherlands,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=46
+Países Bajos,paisesbajos,paisesbajos|Países Bajos|Netherlands|Holland|Nederland,Selecciones,CURATED_NATIONAL_TEAM,,Netherlands,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=46
 Holanda,holanda,holanda|Holanda,Selecciones,CURATED_NATIONAL_TEAM,,Netherlands,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=42
 Auckland City,aucklandcity,Auckland City|aucklandcity,New Zealand National League,CURATED_TEAM_CATALOG,,New Zealand,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=6
-Nueva Zelanda,nuevazelanda,Nueva Zelanda|nuevazelanda,Selecciones,CURATED_NATIONAL_TEAM,,New Zealand,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=12
+Nueva Zelanda,nuevazelanda,Nueva Zelanda|nuevazelanda|New Zealand,Selecciones,CURATED_NATIONAL_TEAM,,New Zealand,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=12
 Nueva Zelanda FEM,nuevazelandafem,Nueva Zelanda FEM|nuevazelandafem,Selecciones,CURATED_NATIONAL_TEAM,,New Zealand,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=10
 Nigeria,nigeria,Nigeria|nigeria,Selecciones,CURATED_NATIONAL_TEAM,,Nigeria,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=10
 Nigeria FEM,nigeriafem,Nigeria FEM|nigeriafem,Selecciones,CURATED_NATIONAL_TEAM,,Nigeria,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=10
@@ -325,7 +325,7 @@ Rdp. de Corea,rdpcorea,Rdp. de Corea|rdpcorea,Selecciones,CURATED_NATIONAL_TEAM,
 Ary de Macedonia,arymacedonia,Ary de Macedonia|arymacedonia,Selecciones,CURATED_NATIONAL_TEAM,,North Macedonia,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=34
 Arym,arym,Arym|arym,Selecciones,CURATED_NATIONAL_TEAM,,North Macedonia,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
 Irlanda del Norte,irlandanorte,Irlanda del Norte|irlandadelnorte,Selecciones,CURATED_NATIONAL_TEAM,,Northern Ireland,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=56
-Noruega,noruega,noruega|Noruega,Selecciones,CURATED_NATIONAL_TEAM,,Norway,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=68
+Noruega,noruega,noruega|Noruega|Norway,Selecciones,CURATED_NATIONAL_TEAM,,Norway,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=68
 Noruega FEM,noruegafem,Noruega FEM|noruegafem,Selecciones,CURATED_NATIONAL_TEAM,,Norway,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=4
 Brann FEM,brannfem,Brann FEM|brannfem,Toppserien,CURATED_TEAM_CATALOG,,Norway,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
 Valerenga FEM,valerengafem,Valerenga FEM|valerengafem,Toppserien,CURATED_TEAM_CATALOG,,Norway,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
@@ -389,7 +389,7 @@ Glasgow City Fem,glasgowcityfem,Glasgow City Fem|glasgowcityfem,Scottish Women�
 Hearts Fem,heartsfem,Hearts Fem|heartsfem,Scottish Women’s Premier League,CURATED_TEAM_CATALOG,,Scotland,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
 Hibernian Fem,hibernianfem,Hibernian Fem|hibernianfem,Scottish Women’s Premier League,CURATED_TEAM_CATALOG,,Scotland,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
 Rangers Fem,rangersfem,Rangers Fem|rangersfem,Scottish Women’s Premier League,CURATED_TEAM_CATALOG,,Scotland,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
-Escocia,escocia,Escocia|escocia,Selecciones,CURATED_NATIONAL_TEAM,,Scotland,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=72
+Escocia,escocia,Escocia|escocia|Scotland,Selecciones,CURATED_NATIONAL_TEAM,,Scotland,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=72
 Senegal,senegal,senegal|Senegal,Selecciones,CURATED_NATIONAL_TEAM,,Senegal,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=16
 Serbia,serbia,serbia|Serbia,Selecciones,CURATED_NATIONAL_TEAM,,Serbia,APPROVED,HIGH,Logo not confirmed in current assets
 Serbia S21,serbias21,Serbia S21|serbias21,Selecciones,CURATED_NATIONAL_TEAM,,Serbia,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=4
@@ -403,11 +403,11 @@ MSK Zilina,mskzilina,MSK Zilina|mskzilina,Slovak First Football League,CURATED_T
 Eslovenia,eslovenia,Eslovenia|eslovenia,Selecciones,CURATED_NATIONAL_TEAM,,Slovenia,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=62
 Maribor,maribor,maribor|Maribor,Slovenian PrvaLiga,CURATED_TEAM_CATALOG,,Slovenia,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=18
 NK Celje,nkcelje,NK Celje|nkcelje,Slovenian PrvaLiga,CURATED_TEAM_CATALOG,,Slovenia,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=6
-Sudafrica,sudafrica,sudafrica|Sudafrica,Selecciones,CURATED_NATIONAL_TEAM,,South Africa,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
+Sudafrica,sudafrica,sudafrica|Sudafrica|South Africa,Selecciones,CURATED_NATIONAL_TEAM,,South Africa,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
 Sudafrica FEM,sudafricafem,Sudafrica FEM|sudafricafem,Selecciones,CURATED_NATIONAL_TEAM,,South Africa,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
 Mamelodi,mamelodi,Mamelodi|mamelodi,South African Premiership,CURATED_TEAM_CATALOG,,South Africa,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=6
 Ulsan HD,ulsanhd,Ulsan HD|ulsanhd,K League 1,CURATED_TEAM_CATALOG,,South Korea,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=6
-Corea Del Sur,coreasur,Corea Del Sur|Rep. Corea|República Corea|República de Corea|South Korea,Selecciones,CURATED_NATIONAL_TEAM,,South Korea,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=18; Actualizado Viewer 2026-06-27: aliases EduardoLosilla/J68-J71.
+Corea Del Sur,coreasur,Corea Del Sur|Rep. Corea|República Corea|República de Corea|South Korea|Korea Republic,Selecciones,CURATED_NATIONAL_TEAM,,South Korea,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=18; Actualizado Viewer 2026-06-27: aliases EduardoLosilla/J68-J71.
 Corea FEM,coreafem,Corea FEM|coreafem,Selecciones,CURATED_NATIONAL_TEAM,,South Korea,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=4
 Athletic de Bilbao Femenino,athleticbilbaofemenino,Athletic de Bilbao Femenino|athleticbilbaofemenino,Liga F,CURATED_TEAM_CATALOG,,Spain,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=8
 Atlético Madrid Femenino,atleticomadridfemenino,atleticomadridfemenino|Atlético Madrid Femenino,Liga F,CURATED_TEAM_CATALOG,,Spain,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=8
@@ -454,7 +454,7 @@ Espanyol,espanyol,Espanyol|espanyol|RCD Espanyol,Primera Division,CURATED_TEAM_C
 Espanol,espanol,espanol|Espanol,Primera Division,CURATED_TEAM_CATALOG,,Spain,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=805
 Zaragoza,zaragoza,R. Zaragoza|Real Zaragoza|rzaragoza|zaragoza|Zaragoza,Segunda Division,CURATED_TEAM_CATALOG,team_logos/segunda/zaragoza.png,Spain,APPROVED,HIGH,
 Valladolid,valladolid,R. Valladolid|Real Valladolid|Valladolid|valladolid,Segunda Division,CURATED_TEAM_CATALOG,team_logos/segunda/valladolid.png,Spain,APPROVED,HIGH,audit_unknown_count=1890
-Almeria,almeria,Almeria|almeria|Almería|UD Almeria,Segunda Division,CURATED_TEAM_CATALOG,team_logos/segunda/almeria.png,Spain,APPROVED,HIGH,audit_unknown_count=1887
+Almeria,almeria,Almeria|almeria|Almería|UD Almeria|Almería UD,Segunda Division,CURATED_TEAM_CATALOG,team_logos/segunda/almeria.png,Spain,APPROVED,HIGH,audit_unknown_count=1887
 Las Palmas,laspalmas,Las Palmas|laspalmas,Segunda Division,CURATED_TEAM_CATALOG,team_logos/udlaspalmas.png,Spain,APPROVED,HIGH,
 Granada,granada,granada|Granada|Granada CF,Segunda Division,CURATED_TEAM_CATALOG,team_logos/segunda/granada.png,Spain,APPROVED,HIGH,
 Malaga,malaga,Malaga|malaga|Malaga CF|Málaga,Segunda Division,CURATED_TEAM_CATALOG,team_logos/segunda/malaga.png,Spain,APPROVED,HIGH,audit_unknown_count=1763
@@ -500,7 +500,7 @@ Valencia B,valenciab,Valencia B|valenciab,Spanish Reserve/Lower Division,CURATED
 Sudan,sudan,Sudan|sudan,Selecciones,CURATED_NATIONAL_TEAM,,Sudan,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
 Surinam,surinam,surinam|Surinam,Selecciones,CURATED_NATIONAL_TEAM,,Suriname,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=4
 Linkoping FEM,linkopingfem,Linkoping FEM|linkopingfem,Damallsvenskan,CURATED_TEAM_CATALOG,,Sweden,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
-Suecia,suecia,Suecia|suecia,Selecciones,CURATED_NATIONAL_TEAM,,Sweden,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=74
+Suecia,suecia,Suecia|suecia|Sweden,Selecciones,CURATED_NATIONAL_TEAM,,Sweden,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=74
 Suecia FEM,sueciafem,Suecia FEM|sueciafem,Selecciones,CURATED_NATIONAL_TEAM,,Sweden,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
 Suiza,suiza,suiza|Suiza,Selecciones,CURATED_NATIONAL_TEAM,,Switzerland,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=112
 Suiza FEM,suizafem,Suiza FEM|suizafem,Selecciones,CURATED_NATIONAL_TEAM,,Switzerland,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
@@ -519,9 +519,9 @@ Thun,thun,thun|Thun,Swiss Super League,CURATED_TEAM_CATALOG,,Switzerland,APPROVE
 Tanzania,tanzania,tanzania|Tanzania,Selecciones,CURATED_NATIONAL_TEAM,,Tanzania,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
 Tailandia FEM,tailandiafem,Tailandia FEM|tailandiafem,Selecciones,CURATED_NATIONAL_TEAM,,Thailand,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
 Trinidad y Tobago,trinidadytobago,Trinidad y Tobago|trinidadytobago,Selecciones,CURATED_NATIONAL_TEAM,,Trinidad and Tobago,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=4
-Túnez,tunez,tunez|Túnez,Selecciones,CURATED_NATIONAL_TEAM,,Tunisia,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=12
+Túnez,tunez,tunez|Túnez|Tunisia,Selecciones,CURATED_NATIONAL_TEAM,,Tunisia,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=12
 ES Tunis,estunis,ES Tunis|estunis,Tunisian Ligue Professionnelle 1,CURATED_TEAM_CATALOG,,Tunisia,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=6
-Turquia,turquia,Turquia|turquia,Selecciones,CURATED_NATIONAL_TEAM,,Turkey,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=60
+Turquia,turquia,Turquia|turquia|Turkey,Selecciones,CURATED_NATIONAL_TEAM,,Turkey,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=60
 Galatasaray,galatasaray,Galatasaray|galatasaray,Süper Lig,CURATED_TEAM_CATALOG,,Turkey,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=110
 Besiktas,besiktas,Besiktas|besiktas,Süper Lig,CURATED_TEAM_CATALOG,,Turkey,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=54
 Fenerbahçe,fenerbahce,fenerbahce|Fenerbahçe,Süper Lig,CURATED_TEAM_CATALOG,,Turkey,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=20
@@ -539,7 +539,7 @@ Dnipro,dnipro,Dnipro|dnipro,Ukrainian Premier League,CURATED_TEAM_CATALOG,,Ukrai
 Kryvbas FEM,kryvbasfem,Kryvbas FEM|kryvbasfem,Ukrainian Premier League,CURATED_TEAM_CATALOG,,Ukraine,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
 Emiratos Arabes,emiratosarabes,Emiratos Arabes|emiratosarabes,Selecciones,CURATED_NATIONAL_TEAM,,United Arab Emirates,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
 Al-Ain,alain,Al-Ain|alain,UAE Pro League,CURATED_TEAM_CATALOG,,United Arab Emirates,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=4
-Estados Unidos,estadosunidos,Estados Unidos|EEUU|USA|United States|Estados Unidos de América,Selecciones,CURATED_NATIONAL_TEAM,,United States,APPROVED,HIGH,Logo not confirmed in current assets; Actualizado Viewer 2026-06-27: aliases EduardoLosilla/J68-J71.
+Estados Unidos,estadosunidos,Estados Unidos|EEUU|USA|United States|Estados Unidos de América|EUA|United States of America,Selecciones,CURATED_NATIONAL_TEAM,,United States,APPROVED,HIGH,Logo not confirmed in current assets; Actualizado Viewer 2026-06-27: aliases EduardoLosilla/J68-J71.
 Estados Unidos FEM,estadosunidosfem,Estados Unidos FEM|estadosunidosfem,Selecciones,CURATED_NATIONAL_TEAM,,United States,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=8
 EE.UU FEM,eeuufem,EE.UU FEM|eeuufem,Selecciones,CURATED_NATIONAL_TEAM,,United States,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
 Columbus Crew,columbuscrew,Columbus Crew|columbuscrew,MLS,CURATED_TEAM_CATALOG,,United States/Canada,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=28
@@ -574,7 +574,7 @@ Nashville,nashville,Nashville|nashville,MLS,CURATED_TEAM_CATALOG,,United States/
 Uruguay,uruguay,Uruguay|uruguay,Selecciones,CURATED_NATIONAL_TEAM,,Uruguay,APPROVED,HIGH,Logo not confirmed in current assets
 Uzbekistan,uzbekistan,Uzbekistan|uzbekistan,Selecciones,CURATED_NATIONAL_TEAM,,Uzbekistan,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=6
 Venezuela,venezuela,Venezuela|venezuela,Selecciones,CURATED_NATIONAL_TEAM,,Venezuela,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=8
-Gales,gales,gales|Gales,Selecciones,CURATED_NATIONAL_TEAM,,Wales,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=76
+Gales,gales,gales|Gales|Wales,Selecciones,CURATED_NATIONAL_TEAM,,Wales,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=76
 Zambia FEM,zambiafem,Zambia FEM|zambiafem,Selecciones,CURATED_NATIONAL_TEAM,,Zambia,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=8
 Zimbabue,zimbabue,zimbabue|Zimbabue,Selecciones,CURATED_NATIONAL_TEAM,,Zimbabwe,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
 KSC Lokeren OV,ksclokerenov,KSC Lokeren OV|ksclokerenov,Belgian Lower Division,CURATED_TEAM_CATALOG,,Belgium,REVIEW,MEDIUM,Logo not confirmed in current assets; audit_unknown_count=4
@@ -855,17 +855,17 @@ Unionistas,unionistas,Unionistas|unionistas,Spanish Lower Division,CURATED_TEAM_
 Vecindario,vecindario,Vecindario|vecindario,Spanish Lower Division,CURATED_TEAM_CATALOG,,Spain,REVIEW,MEDIUM,Logo not confirmed in current assets; audit_unknown_count=2
 Malmö FF,malmoff,malmoff|Malmo,Allsvenskan/Superettan,CURATED_TEAM_CATALOG,,Sweden,REVIEW,MEDIUM,Logo not confirmed in current assets; audit_unknown_count=104; Actualizado Viewer 2026-06-27: aliases EduardoLosilla/J68-J71.
 Göteborg,goteborg,goteborg|IFK Goteborg|Goteborg IFK,Allsvenskan/Superettan,CURATED_TEAM_CATALOG,,Sweden,REVIEW,MEDIUM,Logo not confirmed in current assets; audit_unknown_count=80; Actualizado Viewer 2026-06-27: aliases EduardoLosilla/J68-J71.
-Elfsborg,elfsborg,elfsborg|Elfsborg,Allsvenskan/Superettan,CURATED_TEAM_CATALOG,,Sweden,REVIEW,MEDIUM,Logo not confirmed in current assets; audit_unknown_count=74
+Elfsborg,elfsborg,elfsborg|Elfsborg|IF Elfsborg,Allsvenskan/Superettan,CURATED_TEAM_CATALOG,,Sweden,REVIEW,MEDIUM,Logo not confirmed in current assets; audit_unknown_count=74
 Norrkoping,norrkoping,Norrkoping|norrkoping,Allsvenskan/Superettan,CURATED_TEAM_CATALOG,,Sweden,REVIEW,MEDIUM,Logo not confirmed in current assets; audit_unknown_count=74
-Sirius,sirius,Sirius|sirius,Allsvenskan/Superettan,CURATED_TEAM_CATALOG,,Sweden,REVIEW,MEDIUM,Logo not confirmed in current assets; audit_unknown_count=72
+Sirius,sirius,Sirius|sirius|IK Sirius|Sirius FK|IK Sirius FK,Allsvenskan/Superettan,CURATED_TEAM_CATALOG,,Sweden,REVIEW,MEDIUM,Logo not confirmed in current assets; audit_unknown_count=72
 Djurgårdens,djurgardens,djurgardens|Djurgårdens,Allsvenskan/Superettan,CURATED_TEAM_CATALOG,,Sweden,REVIEW,MEDIUM,Logo not confirmed in current assets; audit_unknown_count=70
 Hacken,hacken,Hacken|hacken,Allsvenskan/Superettan,CURATED_TEAM_CATALOG,,Sweden,REVIEW,MEDIUM,Logo not confirmed in current assets; audit_unknown_count=70
-Hammarby,hammarby,Hammarby|hammarby,Allsvenskan/Superettan,CURATED_TEAM_CATALOG,,Sweden,REVIEW,MEDIUM,Logo not confirmed in current assets; audit_unknown_count=66
+Hammarby,hammarby,Hammarby|hammarby|Hammarby IF,Allsvenskan/Superettan,CURATED_TEAM_CATALOG,,Sweden,REVIEW,MEDIUM,Logo not confirmed in current assets; audit_unknown_count=66
 Kalmar FF,kalmarff,Kalmar FF|Kalmar,Allsvenskan/Superettan,CURATED_TEAM_CATALOG,,Sweden,REVIEW,MEDIUM,Logo not confirmed in current assets; audit_unknown_count=58; Actualizado Viewer 2026-06-27: aliases EduardoLosilla/J68-J71.
 Mjallby Aif,mjallbyaif,Mjallby Aif|Mjallby,Allsvenskan/Superettan,CURATED_TEAM_CATALOG,,Sweden,REVIEW,MEDIUM,Logo not confirmed in current assets; audit_unknown_count=56; Actualizado Viewer 2026-06-27: aliases EduardoLosilla/J68-J71.
 Halmstads,halmstads,halmstads|Halmstad|Halmstads BK,Allsvenskan/Superettan,CURATED_TEAM_CATALOG,,Sweden,REVIEW,MEDIUM,Logo not confirmed in current assets; audit_unknown_count=50; Actualizado Viewer 2026-06-27: aliases EduardoLosilla/J68-J71.
 IFK Värnamo,ifkvarnamo,IFK Värnamo|ifkvarnamo,Allsvenskan/Superettan,CURATED_TEAM_CATALOG,,Sweden,REVIEW,MEDIUM,Logo not confirmed in current assets; audit_unknown_count=48
-Degerfors,degerfors,degerfors|Degerfors,Allsvenskan/Superettan,CURATED_TEAM_CATALOG,,Sweden,REVIEW,MEDIUM,Logo not confirmed in current assets; audit_unknown_count=44
+Degerfors,degerfors,degerfors|Degerfors|Degerfors IF,Allsvenskan/Superettan,CURATED_TEAM_CATALOG,,Sweden,REVIEW,MEDIUM,Logo not confirmed in current assets; audit_unknown_count=44
 AIK Solna,aiksolna,AIK Solna|aiksolna,Allsvenskan/Superettan,CURATED_TEAM_CATALOG,,Sweden,REVIEW,MEDIUM,Logo not confirmed in current assets; audit_unknown_count=42
 Brommapojkarna,brommapojkarna,brommapojkarna|Brommapojkarna,Allsvenskan/Superettan,CURATED_TEAM_CATALOG,,Sweden,REVIEW,MEDIUM,Logo not confirmed in current assets; audit_unknown_count=32
 Aik,aik,Aik,Allsvenskan/Superettan,CURATED_TEAM_CATALOG,,Sweden,REVIEW,MEDIUM,Logo not confirmed in current assets; audit_unknown_count=30
@@ -891,10 +891,10 @@ Siena,siena,Siena|AC Siena|A.C. Siena,,,,,,HIGH,
 Jordania,jordania,Jordania|jordania|Jordan,Selecciones,CURATED_NATIONAL_TEAM,,Jordan,APPROVED,HIGH,Añadido Viewer 2026-06-27 para resolver EduardoLosilla J69/J70.
 IFK Mariehamn,ifkmariehamn,IFK Mariehamn|ifkmariehamn|Mariehamn,Veikkausliiga,CURATED_TEAM_CATALOG,,Finland,APPROVED,HIGH,Añadido Viewer 2026-06-27 para resolver EduardoLosilla J69/J71.
 FC Lahti,fclahti,FC Lahti|fclahti|Lahti,Veikkausliiga/Ykkosliiga,CURATED_TEAM_CATALOG,,Finland,APPROVED,HIGH,Añadido Viewer 2026-06-27 para resolver EduardoLosilla J71.
-IF Gnistan,ifgnistan,IF Gnistan|ifgnistan|Gnistan,Veikkausliiga,CURATED_TEAM_CATALOG,,Finland,APPROVED,HIGH,Añadido Viewer 2026-06-27 para resolver EduardoLosilla J71.
+IF Gnistan,ifgnistan,IF Gnistan|ifgnistan|Gnistan|Gnistan Helsinki,Veikkausliiga,CURATED_TEAM_CATALOG,,Finland,APPROVED,HIGH,Añadido Viewer 2026-06-27 para resolver EduardoLosilla J71.
 SJK,sjk,SJK|sjk|SJK Seinäjoki|SJK Seinajoki|Seinäjoen Jalkapallokerho|Seinajoen Jalkapallokerho,Veikkausliiga,CURATED_TEAM_CATALOG,,Finland,APPROVED,HIGH,Añadido Viewer 2026-06-27 para resolver EduardoLosilla J71.
 TPS,tps,TPS|tps|TPS Turku|Turun Palloseura,Veikkausliiga/Ykkosliiga,CURATED_TEAM_CATALOG,,Finland,APPROVED,HIGH,Añadido Viewer 2026-06-27 para resolver EduardoLosilla J71.
-FF Jaro,ffjaro,FF Jaro|ffjaro|Jaro,Veikkausliiga/Ykkosliiga,CURATED_TEAM_CATALOG,,Finland,APPROVED,HIGH,Añadido Viewer 2026-06-27 para resolver EduardoLosilla J71.
-Ilves,ilves,Ilves|ilves|Tampereen Ilves,Veikkausliiga,CURATED_TEAM_CATALOG,,Finland,APPROVED,HIGH,Añadido Viewer 2026-06-27 para resolver EduardoLosilla J71.
-VPS,vps,VPS|vps|Vaasan Palloseura,Veikkausliiga,CURATED_TEAM_CATALOG,,Finland,APPROVED,HIGH,Añadido Viewer 2026-06-27 para resolver EduardoLosilla J71. No confundir con PSV.
+FF Jaro,ffjaro,FF Jaro|ffjaro|Jaro|Jaro Pietarsaari|FF Jaro Pietarsaari,Veikkausliiga/Ykkosliiga,CURATED_TEAM_CATALOG,,Finland,APPROVED,HIGH,Añadido Viewer 2026-06-27 para resolver EduardoLosilla J71.
+Ilves,ilves,Ilves|ilves|Tampereen Ilves|Ilves Tampere,Veikkausliiga,CURATED_TEAM_CATALOG,,Finland,APPROVED,HIGH,Añadido Viewer 2026-06-27 para resolver EduardoLosilla J71.
+VPS,vps,VPS|vps|Vaasan Palloseura|VPS Vaasa|Vaasan PS,Veikkausliiga,CURATED_TEAM_CATALOG,,Finland,APPROVED,HIGH,Añadido Viewer 2026-06-27 para resolver EduardoLosilla J71. No confundir con PSV.
 Örgryte IS,orgryteis,Örgryte IS|Orgryte IS|Örgryte|Orgryte|orgryte|orgryteis,Allsvenskan/Superettan,CURATED_TEAM_CATALOG,,Sweden,APPROVED,HIGH,Añadido Viewer 2026-06-27 para resolver EduardoLosilla J71.
