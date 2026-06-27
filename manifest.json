@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "project": "MDI QuinielaPro Data Repository",
-  "publishedAt": "2026-06-26T06:30:48.189813Z",
+  "publishedAt": "2026-06-27T13:12:19.531271Z",
   "dataVersion": "2025-2026-67",
   "health": {
     "status": "HEALTHY",
@@ -68,7 +68,7 @@
     "updatedAt": "2026-06-21T06:51:40.347888Z"
   },
   "_localViewer": {
-    "version": "0.9.9.3",
+    "version": "0.9.9.5",
     "generatedBy": "QuinielaPro Viewer Manifest Generator V1",
     "latestRoundId": "official-2025-2026-67",
     "rounds": 1096
