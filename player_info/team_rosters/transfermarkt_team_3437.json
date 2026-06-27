@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "rosterId": "transfermarkt_team_3437",
-  "teamName": "Argentina",
+  "teamName": "ARGENTINA",
   "canonicalTeamName": "Argentina",
   "teamType": "national_team",
   "sourceTeamId": "3437",
@@ -9,7 +9,7 @@
   "rosterConfidence": "MEDIUM",
   "rosterWarning": "Generated from recent national team appearances. Not an official squad list.",
   "source": "transfermarkt-datasets",
-  "updatedAt": "2026-06-26T06:23:25.192182+00:00",
+  "updatedAt": "2026-06-27T16:41:06.972014+00:00",
   "coach": null,
   "players": [
     {
@@ -34,7 +34,7 @@
       "detailedPosition": "Centre-Back",
       "nationality": "Argentina",
       "dateOfBirth": "1991-06-27 00:00:00",
-      "age": 34,
+      "age": 35,
       "heightInCm": 187,
       "currentClubName": "Club Atlético River Plate",
       "photoUrl": "https://img.a.transfermarkt.technology/portrait/header/113133-1762437810.png?lm=1",
