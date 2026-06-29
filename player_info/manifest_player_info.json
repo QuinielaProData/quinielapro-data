@@ -1,177 +1,191 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-27T16:41:07.193473Z",
-  "matchdayId": "official-2025-2026-70",
+  "generatedAt": "2026-06-29T06:10:39.004833Z",
+  "matchdayId": "official-2025-2026-71",
   "season": "2025-2026",
-  "roundNumber": 70,
-  "officialRoundId": "official-2025-2026-70",
+  "roundNumber": 71,
+  "officialRoundId": "official-2025-2026-71",
   "source": "MDI_PlayerInfoSyncTool",
   "appliesToPrediction": false,
   "impactAppliedToBet": "NONE",
   "summary": {
     "totalTeams": 30,
-    "totalRosters": 13,
-    "teamsWithRoster": 13,
-    "teamsWithoutRoster": 17,
+    "totalRosters": 15,
+    "teamsWithRoster": 15,
+    "teamsWithoutRoster": 15,
     "teamsWithoutRosterNames": [
-      "SUECIA",
-      "PAÍSES BAJOS",
-      "TURQUÍA",
-      "NORUEGA",
-      "FRANCIA",
-      "IRAK",
-      "CABO VERDE",
-      "NUEVA ZELANDA",
-      "BÉLGICA",
-      "INGLATERRA",
-      "CROACIA",
-      "GHANA",
       "PORTUGAL",
+      "CROACIA",
+      "SUIZA",
       "ARGELIA",
-      "AUSTRIA",
-      "JORDANIA",
-      "ESPAÑA"
+      "CABO VERDE",
+      "GHANA",
+      "FC LAHTI",
+      "IF GNISTAN",
+      "SJK",
+      "TPS",
+      "FF JARO",
+      "ILVES",
+      "VPS",
+      "IFK MARIEHAMN",
+      "GOTEBORG"
     ],
-    "teamsWithPhotos": 13,
-    "teamsWithLineup": 13,
-    "totalPlayers": 341
+    "teamsWithPhotos": 15,
+    "teamsWithLineup": 15,
+    "totalPlayers": 405
   },
   "totalTeams": 30,
-  "totalRosters": 13,
-  "totalPlayers": 341,
-  "teamsWithRoster": 13,
-  "teamsWithoutRoster": 17,
-  "teamsWithPhotos": 13,
-  "teamsWithLineup": 13,
+  "totalRosters": 15,
+  "totalPlayers": 405,
+  "teamsWithRoster": 15,
+  "teamsWithoutRoster": 15,
+  "teamsWithPhotos": 15,
+  "teamsWithLineup": 15,
   "files": [
     {
       "path": "player_info/player_info_matchday.json",
       "type": "matchday",
-      "sizeBytes": 98606,
-      "sha256": "46f6c5ba23b3cc838d3408c5da24df8206637ccc8999b636e27a1d8d3e5e9f01"
-    },
-    {
-      "path": "player_info/team_rosters/transfermarkt_team_3435.json",
-      "type": "team_roster",
-      "sizeBytes": 13144,
-      "sha256": "cf53c2c4bbd13c62a79f961d631f0930afe09ecd461aa7745e3770699fca212c",
-      "rosterId": "transfermarkt_team_3435"
-    },
-    {
-      "path": "player_info/team_rosters/transfermarkt_team_3670.json",
-      "type": "team_roster",
-      "sizeBytes": 13323,
-      "sha256": "96a72bc2a051971ad273e9a6a6d1e4a77346333301a825f4c95d3564cd5b73e5",
-      "rosterId": "transfermarkt_team_3670"
-    },
-    {
-      "path": "player_info/team_rosters/transfermarkt_team_3505.json",
-      "type": "team_roster",
-      "sizeBytes": 13932,
-      "sha256": "ad74a2a7a2123081d292361e88af639abeb555c4104648079e460b8fc6d552ab",
-      "rosterId": "transfermarkt_team_3505"
-    },
-    {
-      "path": "player_info/team_rosters/transfermarkt_team_3581.json",
-      "type": "team_roster",
-      "sizeBytes": 12671,
-      "sha256": "64d073717c4d98e689da3d72e2e92c750269f4d47c8698e409b1b388425236b7",
-      "rosterId": "transfermarkt_team_3581"
+      "sizeBytes": 112809,
+      "sha256": "a316b361bb0dfb95a421f737e33292fdc7724759f639176a7504aa43432d3868"
     },
     {
       "path": "player_info/team_rosters/transfermarkt_team_3433.json",
       "type": "team_roster",
       "sizeBytes": 13593,
-      "sha256": "0896db157faf74eccc5bf75970b1bdfd72767416193b1368f3e9a6c6b505f49c",
+      "sha256": "28d564f31306d073ff265eb805fa30fadce81fce73b1da920e7f70637791f047",
       "rosterId": "transfermarkt_team_3433"
-    },
-    {
-      "path": "player_info/team_rosters/transfermarkt_team_3499.json",
-      "type": "team_roster",
-      "sizeBytes": 14757,
-      "sha256": "9a33ff202a09c467d4420c97876b7221ee0764489133022b7491ac3dff0af3da",
-      "rosterId": "transfermarkt_team_3499"
-    },
-    {
-      "path": "player_info/team_rosters/transfermarkt_team_3807.json",
-      "type": "team_roster",
-      "sizeBytes": 13837,
-      "sha256": "62ad65999dcf9a8a4b0911d4f4298af1eaf9d9bb189cf6106678ba0660194973",
-      "rosterId": "transfermarkt_team_3807"
     },
     {
       "path": "player_info/team_rosters/transfermarkt_team_3672.json",
       "type": "team_roster",
       "sizeBytes": 13620,
-      "sha256": "a5bb8fa467c1c6b29fed273117320cd8e33446d47cc8d6ceb6ff27e2b88573d4",
+      "sha256": "8614dbc7cce1bb9da4a50bf5b40b3f919c79e8cd4d905ea66e0658f4d3905d67",
       "rosterId": "transfermarkt_team_3672"
-    },
-    {
-      "path": "player_info/team_rosters/transfermarkt_team_3582.json",
-      "type": "team_roster",
-      "sizeBytes": 12547,
-      "sha256": "7ab4d72b75e6a8c5005840eecba859cc5d4c5e05d90739161c3922fc47d23c92",
-      "rosterId": "transfermarkt_team_3582"
-    },
-    {
-      "path": "player_info/team_rosters/transfermarkt_team_3577.json",
-      "type": "team_roster",
-      "sizeBytes": 12207,
-      "sha256": "dfd8e10dccbf858513ab480e62bf16ae1bfe3cadbda7582cf54b396feec97ca1",
-      "rosterId": "transfermarkt_team_3577"
-    },
-    {
-      "path": "player_info/team_rosters/transfermarkt_team_3816.json",
-      "type": "team_roster",
-      "sizeBytes": 13749,
-      "sha256": "f7aa1b5489af5ca786d3408a791003e6a2a0b7ae2c9d49a594f0315f76107791",
-      "rosterId": "transfermarkt_team_3816"
     },
     {
       "path": "player_info/team_rosters/transfermarkt_team_3437.json",
       "type": "team_roster",
       "sizeBytes": 13913,
-      "sha256": "4600eac6b7d793b30c44c8f9c32f99331a6bf7f4354060eee332accbf4e84f11",
+      "sha256": "f8c6df1625cdd109f812278bbf5b08d226d57a6c9ee91500fdeec80e09f29a8d",
       "rosterId": "transfermarkt_team_3437"
     },
     {
-      "path": "player_info/team_rosters/transfermarkt_team_3449.json",
+      "path": "player_info/team_rosters/transfermarkt_team_3816.json",
       "type": "team_roster",
-      "sizeBytes": 13793,
-      "sha256": "728a55b6e41c5a7b58de9293cf11acf69ff5c9b9d3de6979a4df63b10fbd3c69",
-      "rosterId": "transfermarkt_team_3449"
+      "sizeBytes": 13749,
+      "sha256": "b3251afb198378a7f374d4184b00764069ee3373f8917c8c91ddd0bc06638242",
+      "rosterId": "transfermarkt_team_3816"
+    },
+    {
+      "path": "player_info/team_rosters/transfermarkt_team_7945.json",
+      "type": "team_roster",
+      "sizeBytes": 12655,
+      "sha256": "52b61c9c1006f70a2ec3fec6241a30374ba80d0919da6bd5e4e23afb0e7aca04",
+      "rosterId": "transfermarkt_team_7945"
+    },
+    {
+      "path": "player_info/team_rosters/transfermarkt_team_2719.json",
+      "type": "team_roster",
+      "sizeBytes": 15929,
+      "sha256": "99446f430e630a576463b26f850b32bdd18a4c8c4bca2bf0d0fc35bd1c0ec780",
+      "rosterId": "transfermarkt_team_2719"
+    },
+    {
+      "path": "player_info/team_rosters/transfermarkt_team_1011.json",
+      "type": "team_roster",
+      "sizeBytes": 12255,
+      "sha256": "7a8c00ca8acd0de668cb1a18b8785ffaa65f4c3bf685e3afa73155c09f53c1d3",
+      "rosterId": "transfermarkt_team_1011"
+    },
+    {
+      "path": "player_info/team_rosters/transfermarkt_team_5202.json",
+      "type": "team_roster",
+      "sizeBytes": 12977,
+      "sha256": "dae6fe074323fe35c4178df926133c47ae52712d128797af5032362854fd2e2d",
+      "rosterId": "transfermarkt_team_5202"
+    },
+    {
+      "path": "player_info/team_rosters/transfermarkt_team_3641.json",
+      "type": "team_roster",
+      "sizeBytes": 12695,
+      "sha256": "0622761fa82a1fd41f59b64fbd96f916f65af57890bf5284279f7e000c98358c",
+      "rosterId": "transfermarkt_team_3641"
+    },
+    {
+      "path": "player_info/team_rosters/transfermarkt_team_496.json",
+      "type": "team_roster",
+      "sizeBytes": 17112,
+      "sha256": "b682e2a2080e976ee14163bc7ba993f37c44db0b92adafa5a888507026cc923f",
+      "rosterId": "transfermarkt_team_496"
+    },
+    {
+      "path": "player_info/team_rosters/transfermarkt_team_3385.json",
+      "type": "team_roster",
+      "sizeBytes": 17534,
+      "sha256": "9ab92d4648c0f6d72b1f0d97e8b7077405356604df2ab2dd100c37a7a057b2f7",
+      "rosterId": "transfermarkt_team_3385"
+    },
+    {
+      "path": "player_info/team_rosters/transfermarkt_team_3654.json",
+      "type": "team_roster",
+      "sizeBytes": 14487,
+      "sha256": "828c353df5f6784218ca39342042e0e53a1a3cf8ac760e80d1e0583e3dd67a63",
+      "rosterId": "transfermarkt_team_3654"
+    },
+    {
+      "path": "player_info/team_rosters/transfermarkt_team_1118.json",
+      "type": "team_roster",
+      "sizeBytes": 12631,
+      "sha256": "5599da020e64c9f4829a22ed9535670315d85847c225bd78d58bdbc5694ceb34",
+      "rosterId": "transfermarkt_team_1118"
+    },
+    {
+      "path": "player_info/team_rosters/transfermarkt_team_1101.json",
+      "type": "team_roster",
+      "sizeBytes": 13651,
+      "sha256": "5775c54a51b415db4dd113f06f0c11a980c3d97bacbc9cc9aa878d7005d252ac",
+      "rosterId": "transfermarkt_team_1101"
+    },
+    {
+      "path": "player_info/team_rosters/transfermarkt_team_1059.json",
+      "type": "team_roster",
+      "sizeBytes": 12254,
+      "sha256": "30ee0993bf6dfe440d0066f405496ac0ef896ab4ef1553da1e9fa8a47e7cf39d",
+      "rosterId": "transfermarkt_team_1059"
     }
   ],
   "warnings": [
     "No unambiguous team match",
-    "Generated from recent national team appearances. Not an official squad list.",
-    "No recent national team player appearances found for SUECIA",
-    "No historical starting lineup found for SUECIA",
-    "No recent national team player appearances found for PAÍSES BAJOS",
-    "No historical starting lineup found for PAÍSES BAJOS",
-    "No recent national team player appearances found for TURQUÍA",
-    "No historical starting lineup found for TURQUÍA",
-    "Cannot build unresolved team roster: NORUEGA",
-    "No recent national team player appearances found for FRANCIA",
-    "No historical starting lineup found for FRANCIA",
-    "Cannot build unresolved team roster: IRAK",
-    "Cannot build unresolved team roster: CABO VERDE",
-    "No recent national team player appearances found for NUEVA ZELANDA",
-    "No historical starting lineup found for NUEVA ZELANDA",
-    "No recent national team player appearances found for BÉLGICA",
-    "No historical starting lineup found for BÉLGICA",
-    "No recent national team player appearances found for INGLATERRA",
-    "No historical starting lineup found for INGLATERRA",
-    "Cannot build unresolved team roster: CROACIA",
-    "No recent national team player appearances found for GHANA",
-    "No historical starting lineup found for GHANA",
+    "Review fuzzy team match: SIRIUS -> IK Sirius (90)",
+    "Review fuzzy team match: MJALLBY -> Mjällby Almänna Idrottsförening (90)",
+    "Review fuzzy team match: HALMSTADS -> Halmstads BK (95)",
+    "Review fuzzy team match: VASTERAS -> Västerås Sportklubb FK (90)",
+    "Review fuzzy team match: DEGERFORS -> Degerfors IF (95)",
+    "Review fuzzy team match: MALMO -> Malmö Fotbollförening (90)",
+    "Review fuzzy team match: AIK -> Panserraikos Serres (90)",
+    "Review fuzzy team match: KALMAR -> Kalmar Fotbollförening (90)",
+    "Review fuzzy team match: ORGRYTE -> Örgryte IS (95)",
+    "Review fuzzy team match: ELFSBORG -> Idrottsföreningen Elfsborg (90)",
+    "Review fuzzy team match: HAMMARBY -> Hammarby IF (95)",
     "No recent national team player appearances found for PORTUGAL",
     "No historical starting lineup found for PORTUGAL",
+    "Cannot build unresolved team roster: CROACIA",
+    "No recent national team player appearances found for SUIZA",
+    "No historical starting lineup found for SUIZA",
     "Cannot build unresolved team roster: ARGELIA",
-    "No recent national team player appearances found for AUSTRIA",
-    "No historical starting lineup found for AUSTRIA",
-    "Cannot build unresolved team roster: JORDANIA",
-    "No recent national team player appearances found for ESPAÑA",
-    "No historical starting lineup found for ESPAÑA"
+    "Generated from recent national team appearances. Not an official squad list.",
+    "Cannot build unresolved team roster: CABO VERDE",
+    "No recent national team player appearances found for GHANA",
+    "No historical starting lineup found for GHANA",
+    "Cannot build unresolved team roster: FC LAHTI",
+    "Cannot build unresolved team roster: IF GNISTAN",
+    "Cannot build unresolved team roster: SJK",
+    "Cannot build unresolved team roster: TPS",
+    "Cannot build unresolved team roster: FF JARO",
+    "Cannot build unresolved team roster: ILVES",
+    "Cannot build unresolved team roster: VPS",
+    "Cannot build unresolved team roster: IFK MARIEHAMN",
+    "Cannot build unresolved team roster: GOTEBORG",
+    "Roster contains duplicate player names: DEGERFORS"
   ]
 }
