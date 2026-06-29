@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-29T06:10:39.004833Z",
+  "generatedAt": "2026-06-29T11:58:21.467458Z",
   "matchdayId": "official-2025-2026-71",
   "season": "2025-2026",
   "roundNumber": 71,
@@ -46,111 +46,111 @@
       "path": "player_info/player_info_matchday.json",
       "type": "matchday",
       "sizeBytes": 112809,
-      "sha256": "a316b361bb0dfb95a421f737e33292fdc7724759f639176a7504aa43432d3868"
+      "sha256": "d8ee48356dea57df8729fba8e04d1913282d0f860b7c36704ba4e2852c05a483"
     },
     {
       "path": "player_info/team_rosters/transfermarkt_team_3433.json",
       "type": "team_roster",
       "sizeBytes": 13593,
-      "sha256": "28d564f31306d073ff265eb805fa30fadce81fce73b1da920e7f70637791f047",
+      "sha256": "0b4447d597bdafd37776c4dce37e83d6031155327cc864991e22bd8110279024",
       "rosterId": "transfermarkt_team_3433"
     },
     {
       "path": "player_info/team_rosters/transfermarkt_team_3672.json",
       "type": "team_roster",
       "sizeBytes": 13620,
-      "sha256": "8614dbc7cce1bb9da4a50bf5b40b3f919c79e8cd4d905ea66e0658f4d3905d67",
+      "sha256": "9e88e196684fe04b5610ef8d681126f48e7f10a881671e72fc5614c818d322f1",
       "rosterId": "transfermarkt_team_3672"
     },
     {
       "path": "player_info/team_rosters/transfermarkt_team_3437.json",
       "type": "team_roster",
       "sizeBytes": 13913,
-      "sha256": "f8c6df1625cdd109f812278bbf5b08d226d57a6c9ee91500fdeec80e09f29a8d",
+      "sha256": "e1a72423736273c8eac87e807f6e6928044f411d8059f623076aaa30b39e682a",
       "rosterId": "transfermarkt_team_3437"
     },
     {
       "path": "player_info/team_rosters/transfermarkt_team_3816.json",
       "type": "team_roster",
       "sizeBytes": 13749,
-      "sha256": "b3251afb198378a7f374d4184b00764069ee3373f8917c8c91ddd0bc06638242",
+      "sha256": "0ab5d1ba9f7eba5ef750cdd590c388bae583e366681cffd0fa5bbecb5d2c75dc",
       "rosterId": "transfermarkt_team_3816"
     },
     {
       "path": "player_info/team_rosters/transfermarkt_team_7945.json",
       "type": "team_roster",
       "sizeBytes": 12655,
-      "sha256": "52b61c9c1006f70a2ec3fec6241a30374ba80d0919da6bd5e4e23afb0e7aca04",
+      "sha256": "1a9299a48f783ab68bd7e131db55ae9194abb64fa9c52c99e77f7d0e10aea3e3",
       "rosterId": "transfermarkt_team_7945"
     },
     {
       "path": "player_info/team_rosters/transfermarkt_team_2719.json",
       "type": "team_roster",
       "sizeBytes": 15929,
-      "sha256": "99446f430e630a576463b26f850b32bdd18a4c8c4bca2bf0d0fc35bd1c0ec780",
+      "sha256": "5b48e0af974e57e062f527ced1b8874e3a43b2a95851f53a7abe46454211d89f",
       "rosterId": "transfermarkt_team_2719"
     },
     {
       "path": "player_info/team_rosters/transfermarkt_team_1011.json",
       "type": "team_roster",
       "sizeBytes": 12255,
-      "sha256": "7a8c00ca8acd0de668cb1a18b8785ffaa65f4c3bf685e3afa73155c09f53c1d3",
+      "sha256": "63a8e1c630d294e533e6e8c93658849b902630dd2776bd2186dccaf4fa8b062e",
       "rosterId": "transfermarkt_team_1011"
     },
     {
       "path": "player_info/team_rosters/transfermarkt_team_5202.json",
       "type": "team_roster",
       "sizeBytes": 12977,
-      "sha256": "dae6fe074323fe35c4178df926133c47ae52712d128797af5032362854fd2e2d",
+      "sha256": "51af030ba7891b5d73bf7c17b2abba191103c710809b46460faacd9e39a61f5b",
       "rosterId": "transfermarkt_team_5202"
     },
     {
       "path": "player_info/team_rosters/transfermarkt_team_3641.json",
       "type": "team_roster",
       "sizeBytes": 12695,
-      "sha256": "0622761fa82a1fd41f59b64fbd96f916f65af57890bf5284279f7e000c98358c",
+      "sha256": "1859dc39d3e1e63d9aa71d3bd401bab3610e39cf808ba5d335d9c5e64365dea1",
       "rosterId": "transfermarkt_team_3641"
     },
     {
       "path": "player_info/team_rosters/transfermarkt_team_496.json",
       "type": "team_roster",
       "sizeBytes": 17112,
-      "sha256": "b682e2a2080e976ee14163bc7ba993f37c44db0b92adafa5a888507026cc923f",
+      "sha256": "055e7b7508e552e386e90cc4478365f7721cffa9bd130726cce616230b4cc80a",
       "rosterId": "transfermarkt_team_496"
     },
     {
       "path": "player_info/team_rosters/transfermarkt_team_3385.json",
       "type": "team_roster",
       "sizeBytes": 17534,
-      "sha256": "9ab92d4648c0f6d72b1f0d97e8b7077405356604df2ab2dd100c37a7a057b2f7",
+      "sha256": "314f33e6025f6ffc14b763505b39edfa12a0d41e9367f1b639513be3de673c44",
       "rosterId": "transfermarkt_team_3385"
     },
     {
       "path": "player_info/team_rosters/transfermarkt_team_3654.json",
       "type": "team_roster",
       "sizeBytes": 14487,
-      "sha256": "828c353df5f6784218ca39342042e0e53a1a3cf8ac760e80d1e0583e3dd67a63",
+      "sha256": "d674a5258f2a1b620660618c213c7d1b65ec20c4e8693ee1e8cd92eaaa0132af",
       "rosterId": "transfermarkt_team_3654"
     },
     {
       "path": "player_info/team_rosters/transfermarkt_team_1118.json",
       "type": "team_roster",
       "sizeBytes": 12631,
-      "sha256": "5599da020e64c9f4829a22ed9535670315d85847c225bd78d58bdbc5694ceb34",
+      "sha256": "9ec1f44111dfdfa8f2d44f65b151192ac8d33f5deb280803cf375f470c706feb",
       "rosterId": "transfermarkt_team_1118"
     },
     {
       "path": "player_info/team_rosters/transfermarkt_team_1101.json",
       "type": "team_roster",
       "sizeBytes": 13651,
-      "sha256": "5775c54a51b415db4dd113f06f0c11a980c3d97bacbc9cc9aa878d7005d252ac",
+      "sha256": "df0686fbe47874185f63245270792d0269aa6ef291a96ea8e9f0268251e7268b",
       "rosterId": "transfermarkt_team_1101"
     },
     {
       "path": "player_info/team_rosters/transfermarkt_team_1059.json",
       "type": "team_roster",
       "sizeBytes": 12254,
-      "sha256": "30ee0993bf6dfe440d0066f405496ac0ef896ab4ef1553da1e9fa8a47e7cf39d",
+      "sha256": "2876d1cefde7d0817570d4b0e13bcf9cebc3c46f27f4354b7d2a5cd61b1af1aa",
       "rosterId": "transfermarkt_team_1059"
     }
   ],
