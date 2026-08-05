@@ -9,7 +9,7 @@
   "rosterConfidence": "HIGH",
   "rosterWarning": null,
   "source": "transfermarkt-datasets",
-  "updatedAt": "2026-07-05T17:43:32.146652+00:00",
+  "updatedAt": "2026-08-05T15:07:24.918923+00:00",
   "coach": null,
   "players": [
     {
@@ -244,7 +244,7 @@
       "detailedPosition": "Goalkeeper",
       "nationality": "Norway",
       "dateOfBirth": "2007-07-31 00:00:00",
-      "age": 18,
+      "age": 19,
       "heightInCm": 189,
       "currentClubName": "Molde Fotballklubb",
       "photoUrl": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
@@ -398,7 +398,7 @@
       "detailedPosition": "Central Midfield",
       "nationality": "Denmark",
       "dateOfBirth": "2007-07-12 00:00:00",
-      "age": 18,
+      "age": 19,
       "heightInCm": 185,
       "currentClubName": "Molde Fotballklubb",
       "photoUrl": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
