@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
   "project": "MDI QuinielaPro Data Repository",
-  "publishedAt": "2026-07-05T17:55:48.561108Z",
-  "dataVersion": "2025-2026-71",
+  "publishedAt": "2026-08-05T15:05:34.470277Z",
+  "dataVersion": "2025-2026-75",
   "health": {
     "status": "HEALTHY",
     "warnings": []
   },
   "historical": {
-    "masterVersion": "2025-2026-71",
-    "masterSha256": "56736795d9dbb2c9c307a8ccc4bb77f82c72cec4b9756afb8e1dbc008adf4eac",
-    "masterSizeBytes": 5118186,
-    "masterRows": 16500,
+    "masterVersion": "2025-2026-75",
+    "masterSha256": "33bc1b2a81a33c2395a8a01437a5ee417ab82fca3f78ccfdc661d26c7c45fde3",
+    "masterSizeBytes": 5135106,
+    "masterRows": 16560,
     "latestConsolidatedSeason": "2025-2026",
-    "latestConsolidatedRound": 71
+    "latestConsolidatedRound": 75
   },
   "catalogs": {
     "teamIdentityCatalogVersion": "local",
@@ -22,7 +22,7 @@
   "active": {
     "status": "ACTIVE",
     "season": "2025-2026",
-    "round": 72,
+    "round": 76,
     "resultsAvailable": false,
     "contextAvailable": false,
     "playerInfoAvailable": true,
@@ -70,7 +70,7 @@
   "_localViewer": {
     "version": "0.9.9.5",
     "generatedBy": "QuinielaPro Viewer Manifest Generator V1",
-    "latestRoundId": "official-2025-2026-71",
-    "rounds": 1100
+    "latestRoundId": "official-2025-2026-75",
+    "rounds": 1104
   }
 }
