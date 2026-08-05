@@ -9,7 +9,7 @@
   "rosterConfidence": "HIGH",
   "rosterWarning": null,
   "source": "transfermarkt-datasets",
-  "updatedAt": "2026-06-29T11:58:21.098605+00:00",
+  "updatedAt": "2026-08-05T15:07:25.241858+00:00",
   "coach": null,
   "players": [
     {
@@ -118,7 +118,7 @@
       "detailedPosition": "Centre-Back",
       "nationality": "Sweden",
       "dateOfBirth": "2007-07-25 00:00:00",
-      "age": 18,
+      "age": 19,
       "heightInCm": null,
       "currentClubName": "IK Sirius",
       "photoUrl": "https://img.a.transfermarkt.technology/portrait/header/1069499-1771643580.jpg?lm=1",
