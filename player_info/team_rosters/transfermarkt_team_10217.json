@@ -9,7 +9,7 @@
   "rosterConfidence": "HIGH",
   "rosterWarning": null,
   "source": "transfermarkt-datasets",
-  "updatedAt": "2026-07-05T17:43:32.286769+00:00",
+  "updatedAt": "2026-08-05T15:07:24.725926+00:00",
   "coach": null,
   "players": [
     {
@@ -62,7 +62,7 @@
       "detailedPosition": "Left Winger",
       "nationality": "Denmark",
       "dateOfBirth": "2005-07-20 00:00:00",
-      "age": 20,
+      "age": 21,
       "heightInCm": 181,
       "currentClubName": "Sarpsborg 08 Fotballforening",
       "photoUrl": "https://img.a.transfermarkt.technology/portrait/header/695226-1760563826.jpg?lm=1",
@@ -216,7 +216,7 @@
       "detailedPosition": "Centre-Back",
       "nationality": "Norway",
       "dateOfBirth": "1994-07-22 00:00:00",
-      "age": 31,
+      "age": 32,
       "heightInCm": 188,
       "currentClubName": "Sarpsborg 08 Fotballforening",
       "photoUrl": "https://img.a.transfermarkt.technology/portrait/header/230336-1740819753.jpg?lm=1",
