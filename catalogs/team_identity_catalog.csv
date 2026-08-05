@@ -726,7 +726,7 @@ Tromsoe,tromsoe,Tromsoe|tromsoe,Eliteserien/Obos-ligaen,CURATED_TEAM_CATALOG,,No
 Kristiansund,kristiansund,Kristiansund|kristiansund,Eliteserien/Obos-ligaen,CURATED_TEAM_CATALOG,,Norway,REVIEW,MEDIUM,Logo not confirmed in current assets; audit_unknown_count=44
 Lillestroem,lillestroem,Lillestroem|lillestroem,Eliteserien/Obos-ligaen,CURATED_TEAM_CATALOG,,Norway,REVIEW,MEDIUM,Logo not confirmed in current assets; audit_unknown_count=38
 Valerenga,valerenga,Valerenga|valerenga,Eliteserien/Obos-ligaen,CURATED_TEAM_CATALOG,,Norway,REVIEW,MEDIUM,Logo not confirmed in current assets; audit_unknown_count=38
-Brann Bergen,brannbergen,Brann Bergen|brannbergen,Eliteserien/Obos-ligaen,CURATED_TEAM_CATALOG,,Norway,REVIEW,MEDIUM,Logo not confirmed in current assets; audit_unknown_count=36
+Brann Bergen,brannbergen,Brann Bergen|brannbergen|Brann|SK Brann|Sportsklubben Brann,Eliteserien/Obos-ligaen,CURATED_TEAM_CATALOG,,Norway,REVIEW,MEDIUM,Logo not confirmed in current assets; audit_unknown_count=36 Alias verificados y añadidos 2026-08-05 para EduardoLosilla Historical J72-J74.
 Stabæk,stabæk,stabk|Stabæk,Eliteserien/Obos-ligaen,CURATED_TEAM_CATALOG,,Norway,REVIEW,MEDIUM,Logo not confirmed in current assets; audit_unknown_count=28
 Aalesunds FK,aalesundsfk,Aalesunds FK|aalesundsfk,Eliteserien/Obos-ligaen,CURATED_TEAM_CATALOG,,Norway,REVIEW,MEDIUM,Logo not confirmed in current assets; audit_unknown_count=26
 Ostersunds,ostersunds,ostersunds|Ostersunds,Eliteserien/Obos-ligaen,CURATED_TEAM_CATALOG,,Norway,REVIEW,MEDIUM,Logo not confirmed in current assets; audit_unknown_count=26
@@ -734,7 +734,7 @@ Fredrikstad,fredrikstad,fredrikstad|Fredrikstad,Eliteserien/Obos-ligaen,CURATED_
 Kfum,kfum,Kfum|kfum,Eliteserien/Obos-ligaen,CURATED_TEAM_CATALOG,,Norway,REVIEW,MEDIUM,Logo not confirmed in current assets; audit_unknown_count=20
 Jerv,jerv,jerv|Jerv,Eliteserien/Obos-ligaen,CURATED_TEAM_CATALOG,,Norway,REVIEW,MEDIUM,Logo not confirmed in current assets; audit_unknown_count=14
 Bryne,bryne,Bryne|bryne,Eliteserien/Obos-ligaen,CURATED_TEAM_CATALOG,,Norway,REVIEW,MEDIUM,Logo not confirmed in current assets; audit_unknown_count=10
-Start,start,Start|start,Eliteserien/Obos-ligaen,CURATED_TEAM_CATALOG,,Norway,REVIEW,MEDIUM,Logo not confirmed in current assets; audit_unknown_count=8
+Start,start,Start|start|IK Start|Start Kristiansand|IK Start Kristiansand,Eliteserien/Obos-ligaen,CURATED_TEAM_CATALOG,,Norway,REVIEW,MEDIUM,Logo not confirmed in current assets; audit_unknown_count=8 Alias verificados y añadidos 2026-08-05 para EduardoLosilla Historical J72.
 Mjondalen,mjondalen,mjondalen|Mjondalen,Eliteserien/Obos-ligaen,CURATED_TEAM_CATALOG,,Norway,REVIEW,MEDIUM,Logo not confirmed in current assets; audit_unknown_count=6
 Sogndal,sogndal,sogndal|Sogndal,Eliteserien/Obos-ligaen,CURATED_TEAM_CATALOG,,Norway,REVIEW,MEDIUM,Logo not confirmed in current assets; audit_unknown_count=4
 Ranheim,ranheim,Ranheim|ranheim,Eliteserien/Obos-ligaen,CURATED_TEAM_CATALOG,,Norway,REVIEW,MEDIUM,Logo not confirmed in current assets; audit_unknown_count=2
@@ -898,3 +898,5 @@ FF Jaro,ffjaro,FF Jaro|ffjaro|Jaro|Jaro Pietarsaari|FF Jaro Pietarsaari,Veikkaus
 Ilves,ilves,Ilves|ilves|Tampereen Ilves|Ilves Tampere,Veikkausliiga,CURATED_TEAM_CATALOG,,Finland,APPROVED,HIGH,Añadido Viewer 2026-06-27 para resolver EduardoLosilla J71.
 VPS,vps,VPS|vps|Vaasan Palloseura|VPS Vaasa|Vaasan PS,Veikkausliiga,CURATED_TEAM_CATALOG,,Finland,APPROVED,HIGH,Añadido Viewer 2026-06-27 para resolver EduardoLosilla J71. No confundir con PSV.
 Örgryte IS,orgryteis,Örgryte IS|Orgryte IS|Örgryte|Orgryte|orgryte|orgryteis,Allsvenskan/Superettan,CURATED_TEAM_CATALOG,,Sweden,APPROVED,HIGH,Añadido Viewer 2026-06-27 para resolver EduardoLosilla J71.
+AC Oulu,acoulu,AC Oulu|acoulu|Oulu,Veikkausliiga,CURATED_TEAM_CATALOG,,Finland,APPROVED,HIGH,Añadido 2026-08-05 para resolver EduardoLosilla Historical J72 y J75.
+FC Inter Turku,fcinterturku,FC Inter Turku|fcinterturku|Inter Turku|Football Club International Turku,Veikkausliiga,CURATED_TEAM_CATALOG,,Finland,APPROVED,HIGH,Añadido 2026-08-05 para resolver EduardoLosilla Historical J75.
