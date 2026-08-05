@@ -9,7 +9,7 @@
   "rosterConfidence": "HIGH",
   "rosterWarning": null,
   "source": "transfermarkt-datasets",
-  "updatedAt": "2026-07-05T17:43:32.318752+00:00",
+  "updatedAt": "2026-08-05T15:07:24.690457+00:00",
   "coach": null,
   "players": [
     {
@@ -202,7 +202,7 @@
       "detailedPosition": "Centre-Back",
       "nationality": "Norway",
       "dateOfBirth": "1998-07-10 00:00:00",
-      "age": 27,
+      "age": 28,
       "heightInCm": 188,
       "currentClubName": "Viking Fotballklubb",
       "photoUrl": "https://img.a.transfermarkt.technology/portrait/header/392275-1711312595.jpg?lm=1",
