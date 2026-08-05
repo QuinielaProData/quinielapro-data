@@ -9,7 +9,7 @@
   "rosterConfidence": "HIGH",
   "rosterWarning": null,
   "source": "transfermarkt-datasets",
-  "updatedAt": "2026-06-29T11:58:21.180432+00:00",
+  "updatedAt": "2026-08-05T15:07:25.342868+00:00",
   "coach": null,
   "players": [
     {
@@ -146,7 +146,7 @@
       "detailedPosition": "Left-Back",
       "nationality": "Denmark",
       "dateOfBirth": "2003-07-17 00:00:00",
-      "age": 22,
+      "age": 23,
       "heightInCm": 177,
       "currentClubName": "Västerås Sportklubb FK",
       "photoUrl": "https://img.a.transfermarkt.technology/portrait/header/799987-1687343515.jpg?lm=1",
@@ -174,7 +174,7 @@
       "detailedPosition": "Centre-Back",
       "nationality": "Sweden",
       "dateOfBirth": "1995-07-06 00:00:00",
-      "age": 30,
+      "age": 31,
       "heightInCm": 180,
       "currentClubName": "Västerås Sportklubb FK",
       "photoUrl": "https://img.a.transfermarkt.technology/portrait/header/271816-1582278519.jpg?lm=1",
