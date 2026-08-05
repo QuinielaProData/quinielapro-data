@@ -9,7 +9,7 @@
   "rosterConfidence": "HIGH",
   "rosterWarning": null,
   "source": "transfermarkt-datasets",
-  "updatedAt": "2026-06-29T11:58:21.329851+00:00",
+  "updatedAt": "2026-08-05T15:07:24.953481+00:00",
   "coach": null,
   "players": [
     {
@@ -90,7 +90,7 @@
       "detailedPosition": "Left Winger",
       "nationality": "Sweden",
       "dateOfBirth": "1989-07-11 00:00:00",
-      "age": 36,
+      "age": 37,
       "heightInCm": 172,
       "currentClubName": "Örgryte IS",
       "photoUrl": "https://img.a.transfermarkt.technology/portrait/header/75901-1582279831.jpg?lm=1",
@@ -258,7 +258,7 @@
       "detailedPosition": "Central Midfield",
       "nationality": "Sweden",
       "dateOfBirth": "1993-07-26 00:00:00",
-      "age": 32,
+      "age": 33,
       "heightInCm": 175,
       "currentClubName": "Örgryte IS",
       "photoUrl": "https://img.a.transfermarkt.technology/portrait/header/223881-1481288840.jpg?lm=1",
