@@ -9,7 +9,7 @@
   "rosterConfidence": "HIGH",
   "rosterWarning": null,
   "source": "transfermarkt-datasets",
-  "updatedAt": "2026-06-29T11:58:21.236454+00:00",
+  "updatedAt": "2026-08-05T15:07:25.139012+00:00",
   "coach": null,
   "players": [
     {
@@ -132,7 +132,7 @@
       "detailedPosition": "Left Winger",
       "nationality": "Sweden",
       "dateOfBirth": "1998-07-01 00:00:00",
-      "age": 27,
+      "age": 28,
       "heightInCm": 174,
       "currentClubName": "Malmö Fotbollförening",
       "photoUrl": "https://img.a.transfermarkt.technology/portrait/header/731771-1673336117.jpg?lm=1",
