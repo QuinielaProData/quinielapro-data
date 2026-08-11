@@ -469,7 +469,7 @@ Cordoba,cordoba,cordoba|Cordoba|Córdoba,Segunda Division,CURATED_TEAM_CATALOG,t
 Sp Gijon,spgijon,Sp Gijon|spgijon,Segunda Division,CURATED_TEAM_CATALOG,,Spain,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=860
 Deportivo,deportivo,Deportivo|deportivo,Segunda Division,CURATED_TEAM_CATALOG,team_logos/deportivocoruna.png,Spain,APPROVED,HIGH,
 Burgos,burgos,burgos|Burgos,Segunda Division,CURATED_TEAM_CATALOG,team_logos/burgos.png,Spain,APPROVED,HIGH,
-Racing Santander,racingsantander,R. Santander|Racing|Racing De Santander|Racing Santander|racingsantander,Segunda Division,CURATED_TEAM_CATALOG,team_logos/segunda/racingsantander.png,Spain,APPROVED,HIGH,
+Racing Santander,racingsantander,R. Santander|Racing|Racing De Santander|Racing Santander|racingsantander|RACING S.,Segunda Division,CURATED_TEAM_CATALOG,team_logos/segunda/racingsantander.png,Spain,APPROVED,HIGH,
 Eldense,eldense,Eldense|eldense,Segunda Division,AUDIT_SUMMARY_COMPETITION,,Spain,APPROVED,HIGH,Logo not confirmed in current assets
 Cultural Leonesa,culturalleonesa,Cultural Leonesa|culturalleonesa,Segunda Division,CURATED_TEAM_CATALOG,,Spain,APPROVED,HIGH,Logo not confirmed in current assets
 Sociedad B,sociedadb,Sociedad B|sociedadb,Segunda Division,CURATED_TEAM_CATALOG,,Spain,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=196
@@ -477,7 +477,7 @@ Ferrol,ferrol,ferrol|Ferrol,Segunda Division,CURATED_TEAM_CATALOG,,Spain,APPROVE
 Ceuta,ceuta,Ceuta|ceuta,Segunda Division,CURATED_TEAM_CATALOG,team_logos/ceuta.png,Spain,APPROVED,HIGH,
 CD. Castellón,castellon,Castellon|CD. Castellón|cdcastellon|Castellón|CD Castellón,Segunda Division,CURATED_TEAM_CATALOG,team_logos/castellon.png,Spain,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=156
 Racing Ferrol,racingferrol,Racing Ferrol|racingferrol,Segunda Division,CURATED_TEAM_CATALOG,,Spain,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=102
-FC Andorra,andorra,andorra|FC Andorra|fcandorra,Segunda Division,CURATED_TEAM_CATALOG,team_logos/andorra.png,Spain,APPROVED,HIGH,Logo not confirmed in current assets
+FC Andorra,andorra,andorra|FC Andorra|fcandorra|ANDORRA FC,Segunda Division,CURATED_TEAM_CATALOG,team_logos/andorra.png,Spain,APPROVED,HIGH,Logo not confirmed in current assets
 R. Sociedad B,rsociedadb,R. Sociedad B|rsociedadb,Segunda Division,CURATED_TEAM_CATALOG,,Spain,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=28
 España,espana,espana|España,Selecciones,CURATED_NATIONAL_TEAM,,Spain,APPROVED,HIGH,Logo not confirmed in current assets
 España FEM,espanafem,espanafem|España FEM,Selecciones,CURATED_NATIONAL_TEAM,,Spain,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=10
@@ -495,7 +495,7 @@ AT. Madrid B,atmadridb,AT. Madrid B|atmadridb,Spanish Reserve/Lower Division,CUR
 Athletic de Bilbao B,athleticbilbaob,Athletic de Bilbao B|athleticbilbaob,Spanish Reserve/Lower Division,CURATED_TEAM_CATALOG,,Spain,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
 Getafe B,getafeb,Getafe B|getafeb,Spanish Reserve/Lower Division,CURATED_TEAM_CATALOG,,Spain,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
 Osasuna B,osasunab,Osasuna B|osasunab,Spanish Reserve/Lower Division,CURATED_TEAM_CATALOG,,Spain,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
-R.C. Celta B,rcceltab,R.C. Celta B|rcceltab,Spanish Reserve/Lower Division,CURATED_TEAM_CATALOG,,Spain,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
+R.C. Celta B,rcceltab,R.C. Celta B|rcceltab|CELTA FORTUNA,Spanish Reserve/Lower Division,CURATED_TEAM_CATALOG,,Spain,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
 Valencia B,valenciab,Valencia B|valenciab,Spanish Reserve/Lower Division,CURATED_TEAM_CATALOG,,Spain,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
 Sudan,sudan,Sudan|sudan,Selecciones,CURATED_NATIONAL_TEAM,,Sudan,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=2
 Surinam,surinam,surinam|Surinam,Selecciones,CURATED_NATIONAL_TEAM,,Suriname,APPROVED,HIGH,Logo not confirmed in current assets; audit_unknown_count=4
