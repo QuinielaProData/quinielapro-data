@@ -4,10 +4,14 @@
   "season": "2026-2027",
   "round": 1,
   "officialRoundId": "official-2026-2027-01",
-  "generatedAt": "2026-08-12T09:53:12.818702Z",
+  "generatedAt": "2026-08-12T13:44:28.132306Z",
   "source": "EDUARDO_LOSILLA_NEXT",
   "sourceUrl": "https://www.eduardolosilla.es/quiniela/",
   "seasonDetectionSource": "HTML",
+  "roundDate": "2026-08-16",
+  "timingSource": "SEASON_CATALOG",
+  "timingPrecision": "DATE",
+  "timingConfidence": "HIGH",
   "matches": [
     {
       "matchNumber": 1,
