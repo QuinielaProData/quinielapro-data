@@ -1,4 +1,286 @@
 {
   "schemaVersion": 1,
-  "competitions": []
+  "season": "2026-2027",
+  "status": "AUTHORITATIVE_CURRENT_SEASON",
+  "updatedAt": "2026-08-12T08:00:00Z",
+  "sources": [
+    {
+      "competitionLabel": "Primera Division",
+      "authority": "RFEF",
+      "url": "https://rfef.es/es/competiciones/primera-division",
+      "verifiedSeason": "2026-2027"
+    },
+    {
+      "competitionLabel": "Segunda Division",
+      "authority": "RFEF",
+      "url": "https://rfef.es/es/competiciones/segunda-division",
+      "verifiedSeason": "2026-2027"
+    },
+    {
+      "competitionLabel": "Primera Division",
+      "authority": "LALIGA",
+      "url": "https://www.laliga.com/en-GB/laliga-easports/clubs",
+      "verifiedSeason": "2026-2027"
+    },
+    {
+      "competitionLabel": "Segunda Division",
+      "authority": "LALIGA",
+      "url": "https://www.laliga.com/en-GB/laliga-hypermotion/clubs",
+      "verifiedSeason": "2026-2027"
+    }
+  ],
+  "memberships": [
+    {
+      "canonicalName": "Alaves",
+      "competitionLabel": "Primera Division",
+      "country": "Spain",
+      "confidence": "HIGH"
+    },
+    {
+      "canonicalName": "Athletic Club",
+      "competitionLabel": "Primera Division",
+      "country": "Spain",
+      "confidence": "HIGH"
+    },
+    {
+      "canonicalName": "Atletico Madrid",
+      "competitionLabel": "Primera Division",
+      "country": "Spain",
+      "confidence": "HIGH"
+    },
+    {
+      "canonicalName": "Barcelona",
+      "competitionLabel": "Primera Division",
+      "country": "Spain",
+      "confidence": "HIGH"
+    },
+    {
+      "canonicalName": "Betis",
+      "competitionLabel": "Primera Division",
+      "country": "Spain",
+      "confidence": "HIGH"
+    },
+    {
+      "canonicalName": "Celta",
+      "competitionLabel": "Primera Division",
+      "country": "Spain",
+      "confidence": "HIGH"
+    },
+    {
+      "canonicalName": "Deportivo",
+      "competitionLabel": "Primera Division",
+      "country": "Spain",
+      "confidence": "HIGH"
+    },
+    {
+      "canonicalName": "Elche",
+      "competitionLabel": "Primera Division",
+      "country": "Spain",
+      "confidence": "HIGH"
+    },
+    {
+      "canonicalName": "Espanyol",
+      "competitionLabel": "Primera Division",
+      "country": "Spain",
+      "confidence": "HIGH"
+    },
+    {
+      "canonicalName": "Getafe",
+      "competitionLabel": "Primera Division",
+      "country": "Spain",
+      "confidence": "HIGH"
+    },
+    {
+      "canonicalName": "Levante",
+      "competitionLabel": "Primera Division",
+      "country": "Spain",
+      "confidence": "HIGH"
+    },
+    {
+      "canonicalName": "Malaga",
+      "competitionLabel": "Primera Division",
+      "country": "Spain",
+      "confidence": "HIGH"
+    },
+    {
+      "canonicalName": "Osasuna",
+      "competitionLabel": "Primera Division",
+      "country": "Spain",
+      "confidence": "HIGH"
+    },
+    {
+      "canonicalName": "Racing Santander",
+      "competitionLabel": "Primera Division",
+      "country": "Spain",
+      "confidence": "HIGH"
+    },
+    {
+      "canonicalName": "Rayo Vallecano",
+      "competitionLabel": "Primera Division",
+      "country": "Spain",
+      "confidence": "HIGH"
+    },
+    {
+      "canonicalName": "Real Madrid",
+      "competitionLabel": "Primera Division",
+      "country": "Spain",
+      "confidence": "HIGH"
+    },
+    {
+      "canonicalName": "Real Sociedad",
+      "competitionLabel": "Primera Division",
+      "country": "Spain",
+      "confidence": "HIGH"
+    },
+    {
+      "canonicalName": "Sevilla",
+      "competitionLabel": "Primera Division",
+      "country": "Spain",
+      "confidence": "HIGH"
+    },
+    {
+      "canonicalName": "Valencia",
+      "competitionLabel": "Primera Division",
+      "country": "Spain",
+      "confidence": "HIGH"
+    },
+    {
+      "canonicalName": "Villarreal",
+      "competitionLabel": "Primera Division",
+      "country": "Spain",
+      "confidence": "HIGH"
+    },
+    {
+      "canonicalName": "Albacete",
+      "competitionLabel": "Segunda Division",
+      "country": "Spain",
+      "confidence": "HIGH"
+    },
+    {
+      "canonicalName": "Almeria",
+      "competitionLabel": "Segunda Division",
+      "country": "Spain",
+      "confidence": "HIGH"
+    },
+    {
+      "canonicalName": "Burgos",
+      "competitionLabel": "Segunda Division",
+      "country": "Spain",
+      "confidence": "HIGH"
+    },
+    {
+      "canonicalName": "Cadiz",
+      "competitionLabel": "Segunda Division",
+      "country": "Spain",
+      "confidence": "HIGH"
+    },
+    {
+      "canonicalName": "CD. Castellón",
+      "competitionLabel": "Segunda Division",
+      "country": "Spain",
+      "confidence": "HIGH"
+    },
+    {
+      "canonicalName": "Ceuta",
+      "competitionLabel": "Segunda Division",
+      "country": "Spain",
+      "confidence": "HIGH"
+    },
+    {
+      "canonicalName": "Cordoba",
+      "competitionLabel": "Segunda Division",
+      "country": "Spain",
+      "confidence": "HIGH"
+    },
+    {
+      "canonicalName": "Eibar",
+      "competitionLabel": "Segunda Division",
+      "country": "Spain",
+      "confidence": "HIGH"
+    },
+    {
+      "canonicalName": "Eldense",
+      "competitionLabel": "Segunda Division",
+      "country": "Spain",
+      "confidence": "HIGH"
+    },
+    {
+      "canonicalName": "FC Andorra",
+      "competitionLabel": "Segunda Division",
+      "country": "Spain",
+      "confidence": "HIGH"
+    },
+    {
+      "canonicalName": "Girona",
+      "competitionLabel": "Segunda Division",
+      "country": "Spain",
+      "confidence": "HIGH"
+    },
+    {
+      "canonicalName": "Granada",
+      "competitionLabel": "Segunda Division",
+      "country": "Spain",
+      "confidence": "HIGH"
+    },
+    {
+      "canonicalName": "Las Palmas",
+      "competitionLabel": "Segunda Division",
+      "country": "Spain",
+      "confidence": "HIGH"
+    },
+    {
+      "canonicalName": "Leganes",
+      "competitionLabel": "Segunda Division",
+      "country": "Spain",
+      "confidence": "HIGH"
+    },
+    {
+      "canonicalName": "Mallorca",
+      "competitionLabel": "Segunda Division",
+      "country": "Spain",
+      "confidence": "HIGH"
+    },
+    {
+      "canonicalName": "R. Sociedad B",
+      "competitionLabel": "Segunda Division",
+      "country": "Spain",
+      "confidence": "HIGH"
+    },
+    {
+      "canonicalName": "R.C. Celta B",
+      "competitionLabel": "Segunda Division",
+      "country": "Spain",
+      "confidence": "HIGH"
+    },
+    {
+      "canonicalName": "Real Oviedo",
+      "competitionLabel": "Segunda Division",
+      "country": "Spain",
+      "confidence": "HIGH"
+    },
+    {
+      "canonicalName": "Sabadell",
+      "competitionLabel": "Segunda Division",
+      "country": "Spain",
+      "confidence": "HIGH"
+    },
+    {
+      "canonicalName": "Sporting",
+      "competitionLabel": "Segunda Division",
+      "country": "Spain",
+      "confidence": "HIGH"
+    },
+    {
+      "canonicalName": "Tenerife",
+      "competitionLabel": "Segunda Division",
+      "country": "Spain",
+      "confidence": "HIGH"
+    },
+    {
+      "canonicalName": "Valladolid",
+      "competitionLabel": "Segunda Division",
+      "country": "Spain",
+      "confidence": "HIGH"
+    }
+  ]
 }
