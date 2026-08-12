@@ -4,7 +4,7 @@
   "season": "2026-2027",
   "round": 1,
   "officialRoundId": "official-2026-2027-01",
-  "generatedAt": "2026-08-11T15:29:06.128199Z",
+  "generatedAt": "2026-08-12T09:53:12.818702Z",
   "source": "EDUARDO_LOSILLA_NEXT",
   "sourceUrl": "https://www.eduardolosilla.es/quiniela/",
   "seasonDetectionSource": "HTML",
@@ -31,7 +31,10 @@
       "home_mapping_confidence": "HIGH",
       "away_mapping_confidence": "HIGH",
       "mappingStatus": "MAPPED",
-      "mappingConfidence": "HIGH"
+      "mappingConfidence": "HIGH",
+      "competitionLabel": "Primera Division",
+      "competitionSource": "VIEWER_SEASON_COMPETITION_CATALOG",
+      "competitionConfidence": "HIGH"
     },
     {
       "matchNumber": 2,
@@ -55,7 +58,10 @@
       "home_mapping_confidence": "HIGH",
       "away_mapping_confidence": "HIGH",
       "mappingStatus": "MAPPED",
-      "mappingConfidence": "HIGH"
+      "mappingConfidence": "HIGH",
+      "competitionLabel": "Primera Division",
+      "competitionSource": "VIEWER_SEASON_COMPETITION_CATALOG",
+      "competitionConfidence": "HIGH"
     },
     {
       "matchNumber": 3,
@@ -79,7 +85,10 @@
       "home_mapping_confidence": "HIGH",
       "away_mapping_confidence": "HIGH",
       "mappingStatus": "MAPPED",
-      "mappingConfidence": "HIGH"
+      "mappingConfidence": "HIGH",
+      "competitionLabel": "Primera Division",
+      "competitionSource": "VIEWER_SEASON_COMPETITION_CATALOG",
+      "competitionConfidence": "HIGH"
     },
     {
       "matchNumber": 4,
@@ -103,7 +112,10 @@
       "home_mapping_confidence": "HIGH",
       "away_mapping_confidence": "HIGH",
       "mappingStatus": "MAPPED",
-      "mappingConfidence": "HIGH"
+      "mappingConfidence": "HIGH",
+      "competitionLabel": "Primera Division",
+      "competitionSource": "VIEWER_SEASON_COMPETITION_CATALOG",
+      "competitionConfidence": "HIGH"
     },
     {
       "matchNumber": 5,
@@ -127,7 +139,10 @@
       "home_mapping_confidence": "HIGH",
       "away_mapping_confidence": "HIGH",
       "mappingStatus": "MAPPED",
-      "mappingConfidence": "HIGH"
+      "mappingConfidence": "HIGH",
+      "competitionLabel": "Primera Division",
+      "competitionSource": "VIEWER_SEASON_COMPETITION_CATALOG",
+      "competitionConfidence": "HIGH"
     },
     {
       "matchNumber": 6,
@@ -151,7 +166,10 @@
       "home_mapping_confidence": "HIGH",
       "away_mapping_confidence": "HIGH",
       "mappingStatus": "MAPPED",
-      "mappingConfidence": "HIGH"
+      "mappingConfidence": "HIGH",
+      "competitionLabel": "Segunda Division",
+      "competitionSource": "VIEWER_SEASON_COMPETITION_CATALOG",
+      "competitionConfidence": "HIGH"
     },
     {
       "matchNumber": 7,
@@ -175,7 +193,10 @@
       "home_mapping_confidence": "HIGH",
       "away_mapping_confidence": "HIGH",
       "mappingStatus": "MAPPED",
-      "mappingConfidence": "HIGH"
+      "mappingConfidence": "HIGH",
+      "competitionLabel": "Segunda Division",
+      "competitionSource": "VIEWER_SEASON_COMPETITION_CATALOG",
+      "competitionConfidence": "HIGH"
     },
     {
       "matchNumber": 8,
@@ -199,7 +220,10 @@
       "home_mapping_confidence": "HIGH",
       "away_mapping_confidence": "HIGH",
       "mappingStatus": "MAPPED",
-      "mappingConfidence": "HIGH"
+      "mappingConfidence": "HIGH",
+      "competitionLabel": "Segunda Division",
+      "competitionSource": "VIEWER_SEASON_COMPETITION_CATALOG",
+      "competitionConfidence": "HIGH"
     },
     {
       "matchNumber": 9,
@@ -223,7 +247,10 @@
       "home_mapping_confidence": "HIGH",
       "away_mapping_confidence": "HIGH",
       "mappingStatus": "MAPPED",
-      "mappingConfidence": "HIGH"
+      "mappingConfidence": "HIGH",
+      "competitionLabel": "Segunda Division",
+      "competitionSource": "VIEWER_SEASON_COMPETITION_CATALOG",
+      "competitionConfidence": "HIGH"
     },
     {
       "matchNumber": 10,
@@ -247,7 +274,10 @@
       "home_mapping_confidence": "HIGH",
       "away_mapping_confidence": "HIGH",
       "mappingStatus": "MAPPED",
-      "mappingConfidence": "HIGH"
+      "mappingConfidence": "HIGH",
+      "competitionLabel": "Segunda Division",
+      "competitionSource": "VIEWER_SEASON_COMPETITION_CATALOG",
+      "competitionConfidence": "HIGH"
     },
     {
       "matchNumber": 11,
@@ -271,7 +301,10 @@
       "home_mapping_confidence": "HIGH",
       "away_mapping_confidence": "HIGH",
       "mappingStatus": "MAPPED",
-      "mappingConfidence": "HIGH"
+      "mappingConfidence": "HIGH",
+      "competitionLabel": "Segunda Division",
+      "competitionSource": "VIEWER_SEASON_COMPETITION_CATALOG",
+      "competitionConfidence": "HIGH"
     },
     {
       "matchNumber": 12,
@@ -295,7 +328,10 @@
       "home_mapping_confidence": "HIGH",
       "away_mapping_confidence": "HIGH",
       "mappingStatus": "MAPPED",
-      "mappingConfidence": "HIGH"
+      "mappingConfidence": "HIGH",
+      "competitionLabel": "Segunda Division",
+      "competitionSource": "VIEWER_SEASON_COMPETITION_CATALOG",
+      "competitionConfidence": "HIGH"
     },
     {
       "matchNumber": 13,
@@ -319,7 +355,10 @@
       "home_mapping_confidence": "HIGH",
       "away_mapping_confidence": "HIGH",
       "mappingStatus": "MAPPED",
-      "mappingConfidence": "HIGH"
+      "mappingConfidence": "HIGH",
+      "competitionLabel": "Segunda Division",
+      "competitionSource": "VIEWER_SEASON_COMPETITION_CATALOG",
+      "competitionConfidence": "HIGH"
     },
     {
       "matchNumber": 14,
@@ -343,7 +382,10 @@
       "home_mapping_confidence": "HIGH",
       "away_mapping_confidence": "MEDIUM",
       "mappingStatus": "MAPPED",
-      "mappingConfidence": "REVIEW"
+      "mappingConfidence": "REVIEW",
+      "competitionLabel": "Segunda Division",
+      "competitionSource": "VIEWER_SEASON_COMPETITION_CATALOG",
+      "competitionConfidence": "HIGH"
     }
   ],
   "pleno15": {
@@ -368,6 +410,9 @@
     "home_mapping_confidence": "HIGH",
     "away_mapping_confidence": "HIGH",
     "mappingStatus": "MAPPED",
-    "mappingConfidence": "HIGH"
+    "mappingConfidence": "HIGH",
+    "competitionLabel": "Primera Division",
+    "competitionSource": "VIEWER_SEASON_COMPETITION_CATALOG",
+    "competitionConfidence": "HIGH"
   }
 }
