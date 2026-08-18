@@ -9,7 +9,7 @@
   "rosterConfidence": "HIGH",
   "rosterWarning": null,
   "source": "transfermarkt-datasets",
-  "updatedAt": "2026-08-11T15:31:26.255487+00:00",
+  "updatedAt": "2026-08-18T19:36:41.473541+00:00",
   "coach": "Paulo Pezzolano",
   "players": [
     {
@@ -314,7 +314,7 @@
       "detailedPosition": "Defensive Midfield",
       "nationality": "Croatia",
       "dateOfBirth": "1996-08-16 00:00:00",
-      "age": 29,
+      "age": 30,
       "heightInCm": 188,
       "currentClubName": "Real Valladolid CF",
       "photoUrl": "https://img.a.transfermarkt.technology/portrait/header/388125-1614711691.jpg?lm=1",
