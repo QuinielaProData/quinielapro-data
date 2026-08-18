@@ -1,214 +1,196 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-11T15:31:26.695742Z",
-  "matchdayId": "official-2026-2027-01",
+  "generatedAt": "2026-08-18T19:36:41.701305Z",
+  "matchdayId": "official-2026-2027-02",
   "season": "2026-2027",
-  "roundNumber": 1,
-  "officialRoundId": "official-2026-2027-01",
+  "roundNumber": 2,
+  "officialRoundId": "official-2026-2027-02",
   "source": "MDI_PlayerInfoSyncTool",
   "appliesToPrediction": false,
   "impactAppliedToBet": "NONE",
   "summary": {
     "totalTeams": 30,
-    "totalRosters": 20,
-    "teamsWithRoster": 20,
-    "teamsWithoutRoster": 10,
+    "totalRosters": 17,
+    "teamsWithRoster": 17,
+    "teamsWithoutRoster": 13,
     "teamsWithoutRosterNames": [
+      "ATH.CLUB",
+      "R.MADRID",
       "RACING S.",
-      "ANDORRA FC",
-      "CEUTA",
-      "CELTA FORTUNA",
+      "BARCELONA",
       "R.OVIEDO",
-      "TENERIFE",
-      "BURGOS",
-      "ALBACETE",
+      "CEUTA",
+      "ELDENSE",
+      "CASTELLÓN",
+      "SABADELL",
       "SPORTING",
-      "SABADELL"
+      "BURGOS",
+      "TENERIFE",
+      "AT.MADRID"
     ],
-    "teamsWithPhotos": 20,
-    "teamsWithLineup": 20,
-    "totalPlayers": 508
+    "teamsWithPhotos": 17,
+    "teamsWithLineup": 17,
+    "totalPlayers": 422
   },
   "totalTeams": 30,
-  "totalRosters": 20,
-  "totalPlayers": 508,
-  "teamsWithRoster": 20,
-  "teamsWithoutRoster": 10,
-  "teamsWithPhotos": 20,
-  "teamsWithLineup": 20,
+  "totalRosters": 17,
+  "totalPlayers": 422,
+  "teamsWithRoster": 17,
+  "teamsWithoutRoster": 13,
+  "teamsWithPhotos": 17,
+  "teamsWithLineup": 17,
   "files": [
     {
       "path": "player_info/player_info_matchday.json",
       "type": "matchday",
-      "sizeBytes": 146457,
-      "sha256": "d027b4e215c3e68c8f2037fca5e1a7fac70128bc6a3cee6af471454be283bcaf"
-    },
-    {
-      "path": "player_info/team_rosters/transfermarkt_team_1108.json",
-      "type": "team_roster",
-      "sizeBytes": 12625,
-      "sha256": "4df7027d7f72fdbbfa4614a1575a570a07b6ec58f42ec0c46f5ca10b9ad625bf",
-      "rosterId": "transfermarkt_team_1108"
-    },
-    {
-      "path": "player_info/team_rosters/transfermarkt_team_3709.json",
-      "type": "team_roster",
-      "sizeBytes": 13505,
-      "sha256": "f126ce3d59a801d5e7da7036c8e1758a814b377d390d9ea4747c87a9d3667f3a",
-      "rosterId": "transfermarkt_team_3709"
+      "sizeBytes": 124187,
+      "sha256": "c04c754c8fece6d10e308f53f3e87d29c49ff99d697b0f1030dd23b61e020680"
     },
     {
       "path": "player_info/team_rosters/transfermarkt_team_368.json",
       "type": "team_roster",
       "sizeBytes": 14650,
-      "sha256": "bcd159053d260be747f83c06d46545fbcb0b7eed1f144efea3146deb36a6bf8f",
+      "sha256": "6359905a7626c53bc1b569b31af87c1221d2624619e1feb99e1342e156f64e3c",
       "rosterId": "transfermarkt_team_368"
     },
     {
-      "path": "player_info/team_rosters/transfermarkt_team_367.json",
+      "path": "player_info/team_rosters/transfermarkt_team_1049.json",
       "type": "team_roster",
-      "sizeBytes": 14315,
-      "sha256": "18ac4c90c2833b3afe315aff23e408209ba1be04ccb3fde55790f30124661b35",
-      "rosterId": "transfermarkt_team_367"
-    },
-    {
-      "path": "player_info/team_rosters/transfermarkt_team_1050.json",
-      "type": "team_roster",
-      "sizeBytes": 14823,
-      "sha256": "77eb479f5d02b067518491dc5f774200a0daf1075cdbc1519bf868dd5733ac0c",
-      "rosterId": "transfermarkt_team_1050"
-    },
-    {
-      "path": "player_info/team_rosters/transfermarkt_team_714.json",
-      "type": "team_roster",
-      "sizeBytes": 13134,
-      "sha256": "c68420220beae16af462731796534f684040b6d9ff470456d6b6f07e551547c5",
-      "rosterId": "transfermarkt_team_714"
-    },
-    {
-      "path": "player_info/team_rosters/transfermarkt_team_3368.json",
-      "type": "team_roster",
-      "sizeBytes": 14752,
-      "sha256": "9344d2cc487132638033f1a6c139cea058515209568691d36a99223418ade8c3",
-      "rosterId": "transfermarkt_team_3368"
+      "sizeBytes": 14359,
+      "sha256": "88c4e8b1efa8ae8804dddcc1221f6984279f18d8cfdc12bbd208ea8c6903a857",
+      "rosterId": "transfermarkt_team_1049"
     },
     {
       "path": "player_info/team_rosters/transfermarkt_team_940.json",
       "type": "team_roster",
       "sizeBytes": 14776,
-      "sha256": "414dcb1ffcf833bd1a2b1bb636b74d5a8d2eb4b05c3e08b79224873ba9d57266",
+      "sha256": "9cf72af85f88748ec2ef6cf0cb93faf2fdddda72c1c7ac0664d694d93a0741c4",
       "rosterId": "transfermarkt_team_940"
+    },
+    {
+      "path": "player_info/team_rosters/transfermarkt_team_714.json",
+      "type": "team_roster",
+      "sizeBytes": 13134,
+      "sha256": "20d1e3355f7189750559f8eb41cac25ce52b8a767e03d8b3a2a2a48f7a36156c",
+      "rosterId": "transfermarkt_team_714"
+    },
+    {
+      "path": "player_info/team_rosters/transfermarkt_team_3709.json",
+      "type": "team_roster",
+      "sizeBytes": 13505,
+      "sha256": "6e030aebd37711d391d82538a0ad96b7d4b65ce56acb46cd709d7ce0cfdbe3ef",
+      "rosterId": "transfermarkt_team_3709"
+    },
+    {
+      "path": "player_info/team_rosters/transfermarkt_team_1531.json",
+      "type": "team_roster",
+      "sizeBytes": 13634,
+      "sha256": "8b76771bf6770cb2f75d7f3cccac82774bedb6ec59113eb6cdf000f2cda574ff",
+      "rosterId": "transfermarkt_team_1531"
     },
     {
       "path": "player_info/team_rosters/transfermarkt_team_331.json",
       "type": "team_roster",
       "sizeBytes": 11970,
-      "sha256": "e0a7565cd2731439e31d60cfeee3b167389e90efb4abdbffe42c787d40000d9d",
+      "sha256": "c594d300d74185499dc08d60e7f19d2b1c54105b2b26cc25721753632da789dc",
       "rosterId": "transfermarkt_team_331"
     },
     {
-      "path": "player_info/team_rosters/transfermarkt_team_2687.json",
+      "path": "player_info/team_rosters/transfermarkt_team_3368.json",
       "type": "team_roster",
-      "sizeBytes": 15511,
-      "sha256": "4b4be2bf89863a76ebff210eb8172fec067c1bd29b1bc183aa3d1938a2a530b6",
-      "rosterId": "transfermarkt_team_2687"
+      "sizeBytes": 14752,
+      "sha256": "f2e5bc3cc89f06ce30327f72cd2b60e3ec7f50acc55ba1dffe727684dc103b5b",
+      "rosterId": "transfermarkt_team_3368"
     },
     {
-      "path": "player_info/team_rosters/transfermarkt_team_16795.json",
+      "path": "player_info/team_rosters/transfermarkt_team_1084.json",
       "type": "team_roster",
-      "sizeBytes": 10648,
-      "sha256": "008512aededb127c9bcce1414287f9b4054f7878cb11943d0f45e8e3227c9df4",
-      "rosterId": "transfermarkt_team_16795"
+      "sizeBytes": 5315,
+      "sha256": "8efa0ff6b653e517cb5fa0e092bd98030cc9e70f674632000e27bb16e935210f",
+      "rosterId": "transfermarkt_team_1084"
     },
     {
-      "path": "player_info/team_rosters/transfermarkt_team_237.json",
+      "path": "player_info/team_rosters/transfermarkt_team_932.json",
       "type": "team_roster",
-      "sizeBytes": 13845,
-      "sha256": "0478863a60a1b1a85990f57e82d0c6a59e37ef461c76f315bbc608c251dbe9a7",
-      "rosterId": "transfermarkt_team_237"
-    },
-    {
-      "path": "player_info/team_rosters/transfermarkt_team_366.json",
-      "type": "team_roster",
-      "sizeBytes": 11898,
-      "sha256": "3d02861101af4f5c84ad58e696d881fd0f8f67bcf026d1330fb5d260b864da16",
-      "rosterId": "transfermarkt_team_366"
-    },
-    {
-      "path": "player_info/team_rosters/transfermarkt_team_1533.json",
-      "type": "team_roster",
-      "sizeBytes": 8662,
-      "sha256": "204349347becf28ff4ca07b376e4f0c83caa4b45b7d7137b48abc501cee934a7",
-      "rosterId": "transfermarkt_team_1533"
-    },
-    {
-      "path": "player_info/team_rosters/transfermarkt_team_993.json",
-      "type": "team_roster",
-      "sizeBytes": 9131,
-      "sha256": "b7c26e9731319736faf315ce6831d6aad9c0d3c08f2062f1bbbf4e3bce920cef",
-      "rosterId": "transfermarkt_team_993"
-    },
-    {
-      "path": "player_info/team_rosters/transfermarkt_team_12321.json",
-      "type": "team_roster",
-      "sizeBytes": 14205,
-      "sha256": "2f525572b37ce915a45ce8a81d1f81342f022735c2bc8b8393b7dd9dad602396",
-      "rosterId": "transfermarkt_team_12321"
+      "sizeBytes": 15835,
+      "sha256": "95a293dbbb317f1819eb399ba12db204e995e7581c9416bbd1a55245473f66c4",
+      "rosterId": "transfermarkt_team_932"
     },
     {
       "path": "player_info/team_rosters/transfermarkt_team_1244.json",
       "type": "team_roster",
       "sizeBytes": 12194,
-      "sha256": "c9eff8cd1e77a95c7e212153681c491edfd512d069f02783bfa8c961ad31bc83",
+      "sha256": "4dabc97001a12cf56b149e94cc68db859511def6abb266ed8ee161b1969b915c",
       "rosterId": "transfermarkt_team_1244"
     },
     {
       "path": "player_info/team_rosters/transfermarkt_team_472.json",
       "type": "team_roster",
       "sizeBytes": 16157,
-      "sha256": "8841d5dd6cda8250cde2a7655f36a14c91fbfe2e88db8ed9d024cff3012b9bc9",
+      "sha256": "d045823b3ca3f05ee787fe15974a9824c9017daa98277bfa3993ca6995db557b",
       "rosterId": "transfermarkt_team_472"
     },
     {
-      "path": "player_info/team_rosters/transfermarkt_team_932.json",
+      "path": "player_info/team_rosters/transfermarkt_team_2687.json",
       "type": "team_roster",
-      "sizeBytes": 15835,
-      "sha256": "0c8a0372d28f4d2db12f0bbb1d18eb33fd684c12c04bb8d40cc6154b44428af2",
-      "rosterId": "transfermarkt_team_932"
+      "sizeBytes": 15511,
+      "sha256": "ff0e2efbd8d72c53c1230b2cbf3f0aec0060c86f143195a4c13dedaef5e21d38",
+      "rosterId": "transfermarkt_team_2687"
     },
     {
-      "path": "player_info/team_rosters/transfermarkt_team_1531.json",
+      "path": "player_info/team_rosters/transfermarkt_team_1533.json",
       "type": "team_roster",
-      "sizeBytes": 13634,
-      "sha256": "ad62b229f9ee24a38b7a233991d718cc19d3fb15753f6b013c352c33b79144d2",
-      "rosterId": "transfermarkt_team_1531"
+      "sizeBytes": 8662,
+      "sha256": "185e24fe8ce6c769467f91db8ec4f00f8cddb5956bf4e660c6091a8f8e2502c1",
+      "rosterId": "transfermarkt_team_1533"
+    },
+    {
+      "path": "player_info/team_rosters/transfermarkt_team_366.json",
+      "type": "team_roster",
+      "sizeBytes": 11898,
+      "sha256": "73f86c0af9d09f09c6727a1ddccc99b03e601c60317a6f537d55a361bf596df7",
+      "rosterId": "transfermarkt_team_366"
+    },
+    {
+      "path": "player_info/team_rosters/transfermarkt_team_3302.json",
+      "type": "team_roster",
+      "sizeBytes": 10229,
+      "sha256": "b95e7b58e29fd8dfbaeb13ca0441c1ead879ec0a2c11ecee3196412b972dc1a0",
+      "rosterId": "transfermarkt_team_3302"
+    },
+    {
+      "path": "player_info/team_rosters/transfermarkt_team_1050.json",
+      "type": "team_roster",
+      "sizeBytes": 14823,
+      "sha256": "0f0753b74f5ab0aeccf177a32d56fb020cffb19761b87fc8e812b87b2bf038b4",
+      "rosterId": "transfermarkt_team_1050"
     }
   ],
   "warnings": [
-    "Review fuzzy team match: ALAVÉS -> Deportivo Alavés S. A. D. (90)",
-    "Review fuzzy team match: GETAFE -> Getafe Club de Fútbol S. A. D. Team Dubai (90)",
-    "Review fuzzy team match: SEVILLA -> Sevilla Fútbol Club S.A.D. (90)",
-    "Review fuzzy team match: RAYO -> Rayo Vallecano de Madrid S. A. D. (90)",
     "No unambiguous team match",
-    "Review fuzzy team match: VILLARREAL -> Villarreal Club de Fútbol S.A.D. (90)",
-    "Review fuzzy team match: ESPANYOL -> Reial Club Deportiu Espanyol de Barcelona S.A.D. (90)",
-    "Review fuzzy team match: LEVANTE -> Levante Unión Deportiva S.A.D. (90)",
+    "Review fuzzy team match: SEVILLA -> Sevilla Fútbol Club S.A.D. (90)",
+    "Review fuzzy team match: VALENCIA -> Valencia Club de Fútbol S. A. D. (90)",
     "Review fuzzy team match: CELTA -> Real Club Celta de Vigo S. A. D. (90)",
-    "Review fuzzy team match: OSASUNA -> Club Atlético Osasuna (90)",
-    "Review fuzzy team match: MALLORCA -> Real Club Deportivo Mallorca S.A.D. (90)",
-    "Review fuzzy team match: VALLADOLID -> Real Valladolid CF (90)",
-    "Review fuzzy team match: GIRONA -> Girona Fútbol Club S. A. D. (90)",
+    "Review fuzzy team match: ESPANYOL -> Reial Club Deportiu Espanyol de Barcelona S.A.D. (90)",
+    "Review fuzzy team match: GETAFE -> Getafe Club de Fútbol S. A. D. Team Dubai (90)",
     "Review fuzzy team match: ELCHE -> Elche Club de Fútbol S.A.D. (90)",
+    "Review fuzzy team match: OSASUNA -> Club Atlético Osasuna (90)",
+    "Review fuzzy team match: LEVANTE -> Levante Unión Deportiva S.A.D. (90)",
+    "Review fuzzy team match: VALLADOLID -> Real Valladolid CF (90)",
+    "Review fuzzy team match: VILLARREAL -> Villarreal Club de Fútbol S.A.D. (90)",
+    "Cannot build unresolved team roster: ATH.CLUB",
+    "Cannot build unresolved team roster: R.MADRID",
     "Cannot build unresolved team roster: RACING S.",
-    "No recent national team matches found for ANDORRA FC",
-    "No historical starting lineup found for ANDORRA FC",
-    "Cannot build unresolved team roster: CEUTA",
-    "Cannot build unresolved team roster: CELTA FORTUNA",
+    "Cannot build unresolved team roster: BARCELONA",
     "Cannot build unresolved team roster: R.OVIEDO",
-    "Cannot build unresolved team roster: TENERIFE",
-    "Cannot build unresolved team roster: BURGOS",
-    "Cannot build unresolved team roster: ALBACETE",
+    "Cannot build unresolved team roster: CEUTA",
+    "Cannot build unresolved team roster: ELDENSE",
+    "Cannot build unresolved team roster: CASTELLÓN",
+    "Cannot build unresolved team roster: SABADELL",
     "Cannot build unresolved team roster: SPORTING",
-    "Cannot build unresolved team roster: SABADELL"
+    "Cannot build unresolved team roster: BURGOS",
+    "Cannot build unresolved team roster: TENERIFE",
+    "Cannot build unresolved team roster: AT.MADRID",
+    "Roster below minimum (10/12): MÁLAGA"
   ]
 }
