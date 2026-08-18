@@ -9,7 +9,7 @@
   "rosterConfidence": "HIGH",
   "rosterWarning": null,
   "source": "transfermarkt-datasets",
-  "updatedAt": "2026-08-11T15:31:25.781704+00:00",
+  "updatedAt": "2026-08-18T19:36:40.881508+00:00",
   "coach": null,
   "players": [
     {
@@ -104,7 +104,7 @@
       "detailedPosition": "Centre-Forward",
       "nationality": "France",
       "dateOfBirth": "1996-08-14 00:00:00",
-      "age": 29,
+      "age": 30,
       "heightInCm": 171,
       "currentClubName": "Sevilla Fútbol Club S.A.D.",
       "photoUrl": "https://img.a.transfermarkt.technology/portrait/header/217115-1700737951.jpg?lm=1",
@@ -230,7 +230,7 @@
       "detailedPosition": "Right-Back",
       "nationality": "Spain",
       "dateOfBirth": "2003-08-15 00:00:00",
-      "age": 22,
+      "age": 23,
       "heightInCm": 186,
       "currentClubName": "Sevilla Fútbol Club S.A.D.",
       "photoUrl": "https://img.a.transfermarkt.technology/portrait/header/676042-1695240552.jpg?lm=1",
